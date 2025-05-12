@@ -1,9 +1,6 @@
 // SEODashboard.jsx
 import React from 'react';
-import RingImage from '../assets/Ring-image.png';
-import SS2Image from '../assets/ss2-image.png';
-import SS3Image from '../assets/ss3-image.png';
-import ConeImage from '../assets/Cone-image.png';
+
 
 const SEODashboard = () => {
   // Data for each card
@@ -11,13 +8,13 @@ const SEODashboard = () => {
     {
       title: "SEO goal setting",
       description: "Helps you set and achieve SEO goals with guided assistance.",
-      image: RingImage,
+      image: "https://iili.io/38Em9d7.png",
       position: "col-span-1"
     },
     {
       title: "User-friendly dashboard",
       description: "Perform complex SEO audits and optimizations with a single click.",
-      image: SS2Image,
+      image: "https://iili.io/38Em3zb.png",
       position: "col-span-2 md:col-span-2"
     },
     {
@@ -27,13 +24,13 @@ const SEODashboard = () => {
         value: "59.8K",
         change: "+10.7%"
       },
-      image: SS3Image,
+      image: "https://iili.io/38EmFXj.png",
       position: "col-span-2 md:col-span-2"
     },
     {
       title: "Smart Keyword Generator",
       description: "Automatic suggestions and the best keywords to target.",
-      image: ConeImage,
+      image: "https://iili.io/38Ebts4.png",
       position: "col-span-1"
     }
   ];
@@ -109,3 +106,4 @@ const SEODashboard = () => {
 };
 
 export default SEODashboard;
+

@@ -36,7 +36,7 @@ export const DashboardPreview = ({ dashboardImageSrc }) => {
           ></div>
           
           <img 
-  src={dashboardImageSrc || dashboardImage} 
+  src={dashboardImageSrc || "https://iili.io/38Emdmu.png"} 
   alt="SEO Dashboard Interface" 
   className="w-full h-auto rounded-xl border border-gray-800 relative z-1"
   style={{

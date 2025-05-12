@@ -129,7 +129,7 @@ const ClientTestimonialSection = () => {
                   {/* Image with purple shadow */}
                   <div className="w-full h-full rounded-xl overflow-hidden bg-purple-400 shadow-neon-strong backdrop-blur-2xl shadow-purple-400/70">
                     <img 
-                      src={image}
+                      src="https://iili.io/38EmJee.png" 
                       alt="Talia Taylor" 
                       className="w-full h-full object-cover opacity-80"
                     />

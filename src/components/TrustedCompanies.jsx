@@ -13,14 +13,14 @@ const TrustedCompanies = () => {
   // Array of company data with names and logo placeholders
   // You'll replace the placeholder path with your actual PNG image paths
   const companies = [
-    { name: 'Acme Corp', logo: logo1 },
-    { name: 'Echo Valley', logo: logo2 },
-    { name: 'Quantum', logo: logo3 },
-    { name: 'PULSE', logo: logo4 },
-    { name: 'Outside', logo: logo5 },
-    { name: 'APEX', logo: logo6 },
-    { name: 'Celestial', logo: logo7 },
-    { name: '2TWICE', logo: logo8 }
+    { name: 'Acme Corp', logo:"https://iili.io/38EbUfp.png" },
+    { name: 'Echo Valley', logo: "https://iili.io/38EbrgI.png" },
+    { name: 'Quantum', logo: "https://iili.io/38Ebg0N.png" },
+    { name: 'PULSE', logo: "https://iili.io/38Eb6Jt.png" },
+    { name: 'Outside', logo: "https://iili.io/38EbP5X.png" },
+    { name: 'APEX', logo: "https://iili.io/38Ebien.png" },
+    { name: 'Celestial', logo: "https://iili.io/38Ebsbs.png" },
+    { name: '2TWICE', logo: "https://iili.io/38EbQzG.png" }
   ];
   
   
