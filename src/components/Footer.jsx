@@ -16,8 +16,59 @@ const Footer = () => {
           {/* Logo and Social Media Section - Left Side */}
           <div className="w-full md:w-1/3 mb-10 md:mb-0">
             <div className="flex items-center mb-8 justify-center md:justify-start">
-              <div className="w-10 h-10 bg-gray-900 rounded-xl flex items-center justify-center mr-3">
-                <div className="w-6 h-6 bg-purple-600 rounded-full glow"></div>
+              {/* Updated Logo - SVG Implementation */}
+              <div className="relative w-10 h-10 flex items-center justify-center mr-3">
+                <svg viewBox="0 0 100 100" width="100%" height="100%">
+                  {/* Rounded square background */}
+                  <rect 
+                    x="2" y="2" width="96" height="96" 
+                    rx="24" ry="24" 
+                    fill="transparent" 
+                    stroke="#333" 
+                    strokeWidth="1"
+                  />
+                  
+                  {/* Purple glow filter */}
+                  <defs>
+                    <filter id="purple-glow-footer" x="-50%" y="-50%" width="200%" height="200%">
+                      <feGaussianBlur stdDeviation="5" result="blur" />
+                      <feFlood floodColor="#a855f7" floodOpacity="0.8" result="color" />
+                      <feComposite in="color" in2="blur" operator="in" result="glow" />
+                      <feComposite in="SourceGraphic" in2="glow" operator="over" />
+                    </filter>
+                  </defs>
+                  
+                  {/* Purple circle with glow */}
+                  <circle 
+                    cx="50" cy="50" r="25" 
+                    fill="url(#purple-gradient-footer)" 
+                    filter="url(#purple-glow-footer)" 
+                  />
+                  
+                  {/* Gradient for the purple orb */}
+                  <defs>
+                    <radialGradient id="purple-gradient-footer" cx="40%" cy="40%" r="60%" fx="30%" fy="30%">
+                      <stop offset="0%" stopColor="#c084fc" />
+                      <stop offset="60%" stopColor="#8b5cf6" />
+                      <stop offset="100%" stopColor="#7e22ce" />
+                    </radialGradient>
+                  </defs>
+                  
+                  {/* White highlight at center */}
+                  <circle 
+                    cx="50" cy="50" r="10" 
+                    fill="white" 
+                    opacity="0.9" 
+                    filter="blur(5px)" 
+                  />
+                  
+                  {/* Smaller brighter highlight at center for more intense effect */}
+                  <circle 
+                    cx="50" cy="50" r="4" 
+                    fill="white" 
+                    opacity="1" 
+                  />
+                </svg>
               </div>
               <span className="text-white font-medium text-lg">AI Startup Kit</span>
             </div>
@@ -66,16 +117,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-// Add this CSS to your global stylesheet or component styles for the glow effect
-const styles = `
-  .glow {
-    box-shadow: 0 0 15px 2px rgba(124, 58, 237, 0.5);
-  }
-`;
-
-// You can either use a style tag or inject this into your CSS
-const StyleTag = () => <style>{styles}</style>;
-
-// Export the StyleTag component if you want to use it in your app
-export { StyleTag };
