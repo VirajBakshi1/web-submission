@@ -1,0 +1,2281 @@
+{
+  "Home": {
+   "Features": {
+      "sections": [
+        {
+          "id": "rsc",
+          "title": "Robot Study Club",
+          "description": "The Robot Study Club (RSC) of COEP Technological University is a hub of innovation, where students design, build, and compete with cutting-edge robots. From autonomous systems to AI-driven machines, we push the limits of technology. RSC has earned national and international recognition in competitions like RoboCon, ABU RoboCon, and Techfest, proving our expertise in robotics and automation. Join us as we shape the future of intelligent machines!",
+          "buttonText": "Explore RSC",
+          "image": "https://www.coeprobotics.com/assets/Home/home_2.jpg",
+          "link": "/rsc"
+        },
+        {
+          "id": "robocon",
+          "title": "Robocon Legacy",
+          "description": "COEP's Robot Study Club has a rich legacy in Robocon, India's premier robotics competition. With years of dominance, we have built some of the most advanced autonomous and manually controlled robots, winning accolades at both national and international levels. Our journey in ABU Robocon showcases innovation, teamwork, and engineering excellence, setting benchmarks in precision and performance.",
+          "buttonText": "Our Robocon Journey",
+          "image": "https://www.coeprobotics.com/assets/Home/home_2.jpg",
+          "link": "/robocon",
+          "reverse": true
+        }
+      ]
+    },
+
+    "News": {
+      "Projects": [
+        "Soft Robotics - Jelly Fish",
+        "Use of Robot Operating System (ROS)",
+        "Spherical Robot",
+        "Meta Limbs",
+        "Self Balancing Cube",
+        "Jumping Robot",
+        "Rope Climbing Robot",
+        "Wall Climbing Robot",
+        "All Terrain Robot",
+        "Automatic Floor Cleaning Robot",
+        "Electronics Voting Machine"
+      ],
+      "Notices": [
+        "National Robocon 2020: Judge's Special Award",
+        "National Robocon 2019: 2nd Runner-Up in MathWorks Modeling Award",
+        "National Robocon 2018: Best Aesthetic Robot Award",
+        "ABU Robocon 2017 - Tokyo: Nagase Awards, Best Lovely Robot Award",
+        "National Robocon 2017: Winners of National Robocon, Fastest Task Completing Robot Award, Best Idea Award, Winner - Matlab Simulation Award",
+        "National Robocon 2016: 1st Runner-up, Fastest Task Completing Robot Award, Best Manual Robot Operator Award"
+      ],
+      "Activities": [
+        "Representing COEP in the prestigious National Robotics Competition - Robocon.",
+        "Conducting seminars under The Robotics Society (TRS).",
+        "Workshops for FY students.",
+        "Organizing Robotics events in MindSpark.",
+        "Participating in robotics events at IIT B TechFest, MindSpark.",
+        "Building mini-projects and B.Tech projects in robotics and automation.",
+        "Presenting research papers at IEEE conferences and Patents."
+      ]
+    },
+    "Secretaries": 
+    [
+      {
+        "sec": "Hridhay Kutty(BTech- Mech)",
+        "jointsec": "Atharva Neglur (BTech- Instru)",
+        "image":"https://www.coeprobotics.com/assets/secretaries/amey-hande.jpg",
+        "year": "2024-2025",
+        "socials": {
+            "sec_linkedin": "https://www.linkedin.com/in/hridhay-kutty-56483a239/",
+            "jointsec_linkedin": "https://www.linkedin.com/in/atharvaneglur/"
+        }
+    },
+      {
+          "sec": "Amey Hande (BTech- Mech)",
+          "jointsec": "Shubham More (BTech- Mech)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/amey-hande.jpg",
+          "year": "2023-2024",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/amey-hande-453474207/",
+              "jointsec_linkedin": "https://www.linkedin.com/in/shubham-more-73a2a9206/"
+          }
+      },
+      {
+          "sec": "Anirudh Nallawar (BTech- Instru)",
+          "jointsec": "Rushikesh Pabalkar (BTech- Mech)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/nallawar.jpg",
+          "year": "2022-2023",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/anirudh-nallawar/",
+              "jointsec_linkedin": "https://www.linkedin.com/in/rushikesh-pabalkar/"
+          }
+      },
+      {
+          "sec": "Anirudha Gaikwad (BTech- E&TC)",
+          "jointsec": "Arya Arasan (BTech- Mech)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/anirudha.jpg",
+          "year": "2021-2022",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/anirudha-gaikwad-62b9ba152/",
+              "jointsec_linkedin": "https://www.linkedin.com/in/arya-arasan/"
+          }
+      },
+      {
+          "sec": "Yash Deshmukh (BTech- Mech)",
+          "jointsec": "Aditya Jadhav (BTech- E&TC)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/yash.jpg",
+          "year": "2020-2021",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/yashdeshmukh2601/",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Rasika Vibhute (BTech- Mech)",
+          "jointsec": "Hrishikesh Nirgude (BTech- Mech)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/rasika.jpg",
+          "year": "2019-2020",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/rasika-vibhute-10b106210/",
+              "jointsec_linkedin": "https://www.linkedin.com/in/hrishikesh-nirgude19071998/"
+          }
+      },
+      {
+          "sec": "Bhushan Rane (BTech- Elect)",
+          "jointsec": "",
+          "image":"https://www.coeprobotics.com/assets/secretaries/bhushan.jpg",
+          "year": "2018-2019",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/bhushanrane/",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Aashish Sonawane (BTech- E&TC)",
+          "jointsec": "Soham Bulge (BTech- Mech)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/aashish.jpg",
+          "year": "2017-2018",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/aashish-sonawane-a09223146/",
+              "jointsec_linkedin": "https://www.linkedin.com/in/sohan-bulge-649b19118/"
+          }
+      },
+      {
+          "sec": "Anuj Phegde (BTech- E&TC)",
+          "jointsec": "Sanket Saravade (BTech- E&TC)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/om.jpg",
+          "year": "2016-2017",
+          "socials": {
+              "sec_linkedin": "",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Amit Kharat (BTech- E&TC)",
+          "jointsec": "Rahul Pakhare (BTech- E&TC)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/amit.jpg",
+          "year": "2015-2016",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/amit-kharat-57a78791/",
+              "jointsec_linkedin": "https://www.linkedin.com/in/rahul-pakhare001/"
+          }
+      },
+      {
+          "sec": "Om Naik (BTech- Mech)",
+          "jointsec": "Shivraj Wabhale (BTech- IT)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/om.jpg",
+          "year": "2014-2015",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/omnaik/",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Sagar Jadhav (BTech- Mech)",
+          "jointsec": "Dhiraj Jangid (BTech- Mech)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/sagar.jpg",
+          "year": "2013-2014",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/sagar-rajendra-jadhav-6ab80374/",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Ajeet Pawar (BTech- Mech)",
+          "jointsec": "Pratik Deshmukh (BTech- E&TC)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/ajeet.jpg",
+          "year": "2012-2013",
+          "socials": {
+              "sec_linkedin": "",
+              "jointsec_linkedin": "https://www.linkedin.com/in/pratikpdeshmukh/"
+          }
+      },
+      {
+          "sec": "Manjiri Katmore (BTech- Mech)",
+          "jointsec": "Sarang Khandekar (BTech- E&TC)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/manjiri.jpg",
+          "year": "2011-2012",
+          "socials": {
+              "sec_linkedin": "",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Pawan Badade (BTech- Mech)",
+          "jointsec": "",
+          "image":"https://www.coeprobotics.com/assets/secretaries/pawan.jpg",
+          "year": "2010-2011",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/pawan-badade/",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Akshay Phatak (BTech- E&TC)",
+          "jointsec": "Pushkar Nandkar (BTech- E&TC)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/akshay.jpg",
+          "year": "2009-2010",
+          "socials": {
+              "sec_linkedin": "",
+              "jointsec_linkedin": "https://www.linkedin.com/in/pushkar-nandkar/"
+          }
+      },
+      {
+          "sec": "Anupam Ingale (BTech- Instru)",
+          "jointsec": "Vaibhav Bhosle (BTech- Instru)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/anupam.jpg",
+          "year": "2008-2009",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/anupamingale/",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Kapeesh Saraph (BE- Mech) ",
+          "jointsec": "Abhishekh Nagraj (BE-Comp) ",
+          "jointsec2":"Vineet Bhatawadekar (BTech- E&TC) ",
+          "jointsec3":"Pratap Tokekar (BTech- E&TC) ",
+          "image":"https://www.coeprobotics.com/assets/secretaries/kapeesh.jpg",
+          "year": "2006-2008",
+          "socials": {
+              "sec_linkedin": "",
+              "jointsec_linkedin": "https://www.linkedin.com/in/abhisheknagaraj/",
+              "jointsec_linkedin2": "https://www.linkedin.com/in/vineetvb/",
+              "jointsec_linkedin3": "https://www.linkedin.com/in/prataptokekar/"
+          }
+      },
+      {
+          "sec": "Prayag Panchwadkar (BE- Mech)",
+          "jointsec": "Varsha Deshmukh (BE- Mech)",
+          "image":"https://www.coeprobotics.com/assets/secretaries/prayag.jpg",
+          "year": "2005-2006",
+          "socials": {
+              "sec_linkedin": "",
+              "jointsec_linkedin": ""
+          }
+      },
+      {
+          "sec": "Mario Pinto (BE- Mech)",
+          "jointsec": "Prayag Panchwadkar (BE- Mech)",
+          "year": "2004-2005",
+          "socials": {
+              "sec_linkedin": "https://www.linkedin.com/in/mariocpinto/s",
+              "jointsec_linkedin": ""
+          }
+      }
+  ]
+  },
+  "Journey": {
+    "Timeline": [
+      {
+        "date": "2024",
+        "description": "Latest achievements and developments",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2024.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2024-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2024-2.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2024-3.jpg"
+        ]
+      },
+      {
+        "date": "2023",
+        "description": "Secured 5th in Robocon (Harpoon Throwing). Hosted six Robotica events, including Robowars and Virtual Robotics.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2023.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2023-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2023-2.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2023-3.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2023-4.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2023-5.jpg"
+        ]
+      },
+      {
+        "date": "2022",
+        "description": "Ranked 13th in Robocon. Conducted industrial robot training. Built a holonomic drive, four-legged robot, and bionic hand.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2022.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2022-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2022-2.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2022-3.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2022-4.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2022-5.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2022-6.jpg"
+        ]
+      },
+      {
+        "date": "2021",
+        "description": "Ranked 13th in Robocon. Presented 13 papers at ICIT-2021. Built Lagori robots, an underwater ROV, and a swerve drive.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2021.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2021-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2021-2.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2021-3.jpg"
+        ]
+      },
+      {
+        "date": "2019",
+        "description": "Won 3Kg Sumo at National Robotex. Partnered with Siemens India. Developed a custom PID motor controller.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2019.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2019-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2019-2.jpg"
+        ]
+      },
+      {
+        "date": "2018",
+        "description": "Founded India's first Student Chapter of The Robotics Society. Developed CAN & RS-485 protocols. Built humanoid torso, ornithopter, and AGV.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2018.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-2.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-3.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-4.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-5.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-5 (1).jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-6.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-7.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-8.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2018-9.jpg"
+        ]
+      },
+      {
+        "date": "2017",
+        "description": "Won National Robocon. Developed mecanum drive and electronic pressure regulator for pneumatics.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2017.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2017-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2017-2.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2017-3.jpg"
+        ]
+      },
+      {
+        "date": "2016",
+        "description": "1st Runner-Up at Robocon. Won MathWorks and Fastest Job Completing Robot awards. Published papers on robotic fish and omni-drive robots.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2016.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2016-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2016-2.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2016-3.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2016-3 (1).jpg",
+          "https://www.coeprobotics.com/assets/Journey/2016-4.jpg"
+        ]
+      },
+      {
+        "date": "2015",
+        "description": "Won Best Innovative Design (ROHM) and Best Manual Operators at Robocon. Developed badminton-playing robots with 2D LIDAR.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2015.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2015-1.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2015-2.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2015-3.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2015-4.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2015-5.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2015-6.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2015-7.jpg",
+          "https://www.coeprobotics.com/assets/Journey/2015-8.jpg"
+        ]
+      },
+      {
+        "date": "2014",
+        "description": "Partnered with Pepperl + Fuchs. Built a quadrotor with IMU stability and a Wall Climbing Robot.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Journey/2014-1.jpg"
+        ]
+      }
+    ]
+  },
+  "Team": {
+    "facad": [
+      {
+        "name": "Dr. S. S. OHOL",
+        "image": "https://www.coeprobotics.com/assets/team/Ohol.jpg",
+        "designation": "Faculty Advisor",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/dr-shantipal-ohol-8547b620?originalSubdomain=in",
+          "github": "",
+          "twitter": ""
+        }
+      }
+    ],
+    "firstYear": [
+      "First Year Member 1",
+      "First Year Member 2",
+      "First Year Member 3",
+      "First Year Member 4"
+    ],
+    "secondYear": [
+      {
+        "name": "Laya Kshetrapal",
+        "image": "https://www.coeprobotics.com/assets/team/laya_kshetrapal.png",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/laya-kshetrapal-9615b927a/"
+        }
+      },
+      {
+        "name": "Kavish Patil",
+        "image": "https://www.coeprobotics.com/assets/team/kavish-patil.jpg",
+        "designation": "Member",
+        "socials": {}
+      },
+      {
+        "name": "Tejas Nirwan",
+        "image": "https://www.coeprobotics.com/assets/team/tejas-nirwan.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/tejas-nirwan-43a779291/"
+        }
+      },
+      {
+        "name": "Saatvika Udayakumar",
+        "image": "https://www.coeprobotics.com/assets/team/saatvika-u.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/saatvika-udayakumar-441901313/"
+        }
+      },
+      {
+        "name": "Dhiraj Patil",
+        "image": "https://www.coeprobotics.com/assets/team/dhiraj-patil.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/dhiraj-patil-a2150729b/"
+        }
+      },
+      {
+        "name": "Khushi Jaiswal",
+        "image": "https://www.coeprobotics.com/assets/team/khushi-jaiswal.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/khushi-jaiswal-230648253/"
+        }
+      },
+      {
+        "name": "Siya Jadhao",
+        "image": "https://www.coeprobotics.com/assets/team/siya-jadhao.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/siya-jadhao-12052328b/"
+        }
+      },
+      {
+        "name": "Samruddhi Nighrunkar",
+        "image": "https://www.coeprobotics.com/assets/team/samruddhi-nighrunkar.jpg",
+        "designation": "Member",
+        "socials": {}
+      },
+      {
+        "name": "Shreya Muley",
+        "image": "https://www.coeprobotics.com/assets/team/shreya-muley.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/shreya-muley-2a57482ab"
+        }
+      },
+      {
+        "name": "Vedant Kawarkhe",
+        "image": "https://www.coeprobotics.com/assets/team/shreya-muley.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/shreya-muley-2a57482ab"
+        }
+      },
+      {
+        "name": "Shishir Shiragave",
+        "image": "https://www.coeprobotics.com/assets/team/shishir-shiragave.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://in.linkedin.com/in/shishir-shiragave-785589282"
+        }
+      },
+      {
+        "name": "Saleel Mutalik",
+        "image": "https://www.coeprobotics.com/assets/team/saleel-mutalik.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "www.linkedin.com/in/saleel-mutalik-b9253427b"
+        }
+      },
+      {
+        "name": "Tanmay Lonbale",
+        "image": "https://www.coeprobotics.com/assets/team/tanmay-lonbale.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/tanmay-lonbale-690547293/"
+        }
+      },
+      {
+        "name": "Chandan Rathore",
+        "image": "https://www.coeprobotics.com/assets/team/chandan-rathore.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/chandan-rathore-3b9baa30a/"
+        }
+      },
+      {
+        "name": "Aditya Mane",
+        "image": "https://www.coeprobotics.com/assets/team/aditya-mane.jpg",
+        "designation": "Member",
+        "socials": {}
+      },
+      {
+        "name": "Arpit Khole",
+        "image": "https://www.coeprobotics.com/assets/team/arpit-khole.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/arpit-khole-404696308/"
+        }
+      },
+      {
+        "name": "Atharv Divekar",
+        "image": "https://www.coeprobotics.com/assets/team/atharv-divekar.jpg",
+        "designation": "Member",
+        "socials": {}
+      },
+      {
+        "name": "Himanshu Paranjape",
+        "image": "https://www.coeprobotics.com/assets/team/himanshu-paranjape.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/himanshu-paranjape-7628a1291"
+        }
+      },
+      {
+        "name": "Neil Ganju",
+        "image": "https://www.coeprobotics.com/assets/team/neil-ganju.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/neil-ganju-0bab692a7/"
+        }
+      },
+      {
+        "name": "Parth Kharche",
+        "image": "https://www.coeprobotics.com/assets/team/parth-kharche.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "www.linkedin.com/in/parth-kharche-b5a992293"
+        }
+      },
+      {
+        "name": "Arnav Mundle",
+        "image": "https://www.coeprobotics.com/assets/team/arnav-mundle.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/arnav-mundle-49a78b335"
+        }
+      },
+      {
+        "name": "Sharvin Samak",
+        "image": "https://www.coeprobotics.com/assets/team/sharvin-kaustub.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/sharvin-samak-428824302/"
+        }
+      },
+      {
+        "name": "Soham Pokarna",
+        "image": "https://www.coeprobotics.com/assets/team/soham-pokarna.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/soham-pokarna-a69773335/"
+        }
+      }
+    ],
+    "thirdYear": [
+      {
+        "name": "Dishant Kinake",
+        "image": "https://www.coeprobotics.com/assets/team/dishant-kinake.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/dishant-kinake-a71ba925a/"
+        }
+      },
+      {
+        "name": "Diya Shetty",
+        "image": "https://www.coeprobotics.com/assets/team/diya-shetty.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "linkedin.com/in/diya-shetty-6bb03428"
+        }
+      },
+      {
+        "name": "Harshvardhan Ligade",
+        "image": "https://www.coeprobotics.com/assets/team/harshvardhan-ligade.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://linkedin.com/in/harshvardhan-ligade-77b174290"
+        }
+      },
+      {
+        "name": "Kunal Pawar",
+        "image": "https://www.coeprobotics.com/assets/team/kunal-pawar.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/kunal-pawar-208631260/"
+        }
+      },
+      {
+        "name": "Omprakash Dumre",
+        "image": "https://www.coeprobotics.com/assets/team/omprakash-dumre.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/omprakash-dumre-19abbb25a"
+        }
+      },
+      {
+        "name": "Richelle Bardeskar",
+        "image": "https://www.coeprobotics.com/assets/team/richelle-bardeskar.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/richelle-bardeskar-2b4875137/"
+        }
+      },
+      {
+        "name": "Omkar Shete",
+        "image": "https://www.coeprobotics.com/assets/team/sarthak-dhande.jpg",
+        "designation": "Member",
+        "socials": {}
+      },
+      {
+        "name": "Sumit Madane",
+        "image": "https://www.coeprobotics.com/assets/team/sumit-madane.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/sumit-madane-60697b285"
+        }
+      },
+      {
+        "name": "Tanvi Chalke",
+        "image": "https://www.coeprobotics.com/assets/team/tanvi-chalke.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/tanvi-chalke-ab7696289/"
+        }
+      },
+      {
+        "name": "Vedant Divekar",
+        "image": "https://www.coeprobotics.com/assets/team/vedant-divekar.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/vedant-dhananjay-divekar-427082303/"
+        }
+      }
+    ],
+    "bTech": [
+      {
+        "name": "Hridhay Kutty",
+        "image": "https://www.coeprobotics.com/assets/team/hridhay-kutty.jpg",
+        "designation": "Secretary",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/hridhay-kutty-56483a239/"
+        }
+      },
+      {
+        "name": "Atharva Neglur",
+        "image": "https://www.coeprobotics.com/assets/team/atharva-neglur.jpg",
+        "designation": "Joint Secretary",
+        "socials": {
+          "linkedin": "www.linkedin.com/in/atharvaneglur"
+        }
+      },
+      {
+        "name": "Aditya More",
+        "image": "https://www.coeprobotics.com/assets/team/aditya-more.jpg",
+        "designation": "Secretary",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/aditya-more-0a4035212/"
+        }
+      },
+      {
+        "name": "Anish Patil",
+        "image": "https://www.coeprobotics.com/assets/team/anish-patil.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/anish-patil-6083a3230/"
+        }
+      },
+      {
+        "name": "Anish Patil",
+        "image": "https://www.coeprobotics.com/assets/team/anish-patil-m.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/anishcpatil/"
+        }
+      },
+      {
+        "name": "Ayush Ambhorkar",
+        "image": "https://www.coeprobotics.com/assets/team/ayush-ambhorkar.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/ayush-ambhorkar-827628223/"
+        }
+      },
+      {
+        "name": "Jiten Topiwala",
+        "image": "https://www.coeprobotics.com/assets/team/jiten-topiwala.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/jitentopiwala"
+        }
+      },
+      {
+        "name": "Yash Gavit",
+        "image": "https://www.coeprobotics.com/assets/team/yash-gavit.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/yash-gavit-2ab657229/"
+        }
+      }
+    ],
+    "alumni": [
+      {
+        "name": "Anirudha Gaikwad",
+        "image": "https://www.coeprobotics.com/assets/Alumini/anirudha-gaikwad-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/anirudha-gaikwad/",
+          "github": "https://github.com/anirudha-gaikwad",
+          "twitter": "https://twitter.com/anirudha-gaikwad"
+        }
+      },
+      {
+        "name": "Arya Arasan",
+        "image": "https://www.coeprobotics.com/assets/Alumini/arya-arasan-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/arya-arasan/",
+          "github": "https://github.com/arya-arasan",
+          "twitter": "https://twitter.com/arya-arasan"
+        }
+      },
+      {
+        "name": "Mihir Kulkarni",
+        "image": "https://www.coeprobotics.com/assets/Alumini/mihir-kulkarni-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/mihir-kulkarni/",
+          "github": "https://github.com/mihir-kulkarni",
+          "twitter": "https://twitter.com/mihir-kulkarni"
+        }
+      },
+      {
+        "name": "Poorval Wanere",
+        "image": "https://www.coeprobotics.com/assets/Alumini/poorval-wanere-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/poorval-wanere/",
+          "github": "https://github.com/poorval-wanere",
+          "twitter": "https://twitter.com/poorval-wanere"
+        }
+      },
+      {
+        "name": "Shaunak Mahajan",
+        "image": "https://www.coeprobotics.com/assets/Alumini/shaunak-mahajan-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/shaunak-mahajan/",
+          "github": "https://github.com/shaunak-mahajan",
+          "twitter": "https://twitter.com/shaunak-mahajan"
+        }
+      },
+      {
+        "name": "Chinmay Patil",
+        "image": "https://www.coeprobotics.com/assets/Alumini/chinmay-patil-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/chinmay-patil/",
+          "github": "https://github.com/chinmay-patil",
+          "twitter": "https://twitter.com/chinmay-patil"
+        }
+      },
+      {
+        "name": "Chirag Tawade",
+        "image": "https://www.coeprobotics.com/assets/Alumini/chirag-tawade-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/chirag-tawade/",
+          "github": "https://github.com/chirag-tawade",
+          "twitter": "https://twitter.com/chirag-tawade"
+        }
+      },
+      {
+        "name": "Koustubh Anturkar",
+        "image": "https://www.coeprobotics.com/assets/Alumini/koustubh-anturkar-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/koustubh-anturkar/",
+          "github": "https://github.com/koustubh-anturkar",
+          "twitter": "https://twitter.com/koustubh-anturkar"
+        }
+      },
+      {
+        "name": "Rushikesh Pabarkar",
+        "image": "https://www.coeprobotics.com/assets/Alumini/rushikesh-pabarkar-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/rushikesh-pabarkar/",
+          "github": "https://github.com/rushikesh-pabarkar",
+          "twitter": "https://twitter.com/rushikesh-pabarkar"
+        }
+      },
+      {
+        "name": "Samruddhi Purohit",
+        "image": "https://www.coeprobotics.com/assets/Alumini/samruddhi-purohit-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/samruddhi-purohit/",
+          "github": "https://github.com/samruddhi-purohit",
+          "twitter": "https://twitter.com/samruddhi-purohit"
+        }
+      },
+      {
+        "name": "Shubham Bhagat",
+        "image": "https://www.coeprobotics.com/assets/Alumini/shubham-bhagat-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/shubham-bhagat/",
+          "github": "https://github.com/shubham-bhagat",
+          "twitter": "https://twitter.com/shubham-bhagat"
+        }
+      },
+      {
+        "name": "Sojwal Deshmukh",
+        "image": "https://www.coeprobotics.com/assets/Alumini/sojwal-deshmukh-2.jpg",
+        "designation": "Member",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/sojwal-deshmukh/",
+          "github": "https://github.com/sojwal-deshmukh",
+          "twitter": "https://twitter.com/sojwal-deshmukh"
+        }
+      }
+    ]
+  },
+ "Projects": {
+    "Categories": {
+      "defence_surveillance": "Defence and Surveillance",
+      "biomimicry": "Biomimicry",
+      "traversal": "Traversal",
+      "prosthetics": "Prosthetics",
+      "service_society": "Service to Society",
+      "miscellaneous": "Miscellaneous",
+      "application_based": "Application Based",
+      "humanoid": "Humanoid"
+    },
+    "ProjectData": [
+      {
+        "title": "Human Assistive Lower Body Exoskeleton",
+        "description": "Bringing bionics to reality!",
+        "points": [
+          "Was the runner-up at DRDO Competition",
+          "A mechanised exoskeleton that supports extreme weight using pneumatics"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/exoskeleton.jpg",
+        "categoryIds": ["defence_surveillance"]
+      },
+      {
+        "title": "Vilola: Man-Packable Surveillance Robot",
+        "description": "Straight out of a spy movie!",
+        "points": [
+          "Uses a camera to stream video",
+          "2 Motorised hemispheres allow the robot to traverse",
+          "The central cylindrical body is stabilized so that the camera is always facing at the right angle"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/vilola.jpg",
+        "categoryIds": ["defence_surveillance"]
+      },
+      {
+        "title": "Compressed Air Exoskeleton Suit",
+        "description": "Empowering human capabilities!",
+        "points": [
+          "Uses compressed air technology to enhance physical strength",
+          "Ideal for heavy-lifting tasks in industrial and rescue operations"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/exoskeleton.jpg",
+        "categoryIds": ["defence_surveillance"]
+      },
+      {
+        "title": "'HALEX' - Human Assistant Limb Exoskeleton",
+        "description": "Assisting mobility and rehabilitation!",
+        "points": [
+          "A wearable exoskeleton to aid individuals with mobility impairments",
+          "Designed for rehabilitation and to enhance physical strength"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/Halex.jpg",
+        "categoryIds": ["defence_surveillance"]
+      },
+      {
+        "title": "Ornithopter",
+        "description": "RSC's try at bio mimicry!",
+        "points": [
+          "Cycled through two versions of this robot",
+          "Latest version is a bird robot that can fly in circles with support",
+          "Uses high speed motors to mimic wing flapping",
+          "Uses a gyroscope to maintain balance while flying"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/ornithopter.jpg",
+        "categoryIds": ["biomimicry"]
+      },
+      {
+        "title": "Fish Robot",
+        "description": "Bringing aquatic robotics to life!",
+        "points": [
+          "Mimics the movement of a real fish for underwater exploration",
+          "Designed for tasks like water quality monitoring and marine life observation"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/Fishrobot.jpg",
+        "categoryIds": ["biomimicry"]
+      },
+      {
+        "title": "Snake Robot",
+        "description": "Inspired by nature, designed for precision!",
+        "points": [
+          "Mimics the movement of a snake to navigate narrow spaces",
+          "Ideal for search-and-rescue missions and pipe inspections"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/snake.jpg",
+        "categoryIds": ["biomimicry"]
+      },
+      {
+        "title": "Dog Robot",
+        "description": "Four-legged agility in robotics!",
+        "points": [
+          "A quadruped robot designed to mimic the movement of a dog",
+          "Great for search-and-rescue, surveillance, and outdoor exploration"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/Dogrobot.jpg",
+        "categoryIds": ["biomimicry"]
+      },
+      {
+        "title": "Swerve Drive",
+        "description": "Effortless agility, infinite possibilities!",
+        "points": [
+          "Makes efficient use of every motor action",
+          "Uses 2 motors: one for driving and one for direction control",
+          "Mechanical coupling is key for driving the gear action"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/sverwedrive.jpg",
+        "categoryIds": ["traversal"]
+      },
+      {
+        "title": "Wall Climbing Robot",
+        "description": "Defying gravity, conquering walls",
+        "points": [
+          "Inspired by the lizard",
+          "Uses suction to stick to walls"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/wallclimber.jpg",
+        "categoryIds": ["traversal"]
+      },
+      {
+        "title": "Hydroquadroter",
+        "description": "Merging air and water for innovative robotics!",
+        "points": [
+          "A quadrotor capable of operating in both aerial and underwater environments",
+          "Built for dual-terrain reconnaissance and environmental studies"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/Hydroquadrotor.jpg",
+        "categoryIds": ["traversal"]
+      },
+      {
+        "title": "Vertigo",
+        "description": "Defying gravity with precision!",
+        "points": [
+          "Designed to traverse vertical surfaces",
+          "Equipped with suction or magnetic wheels for climbing"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/vertigo.jpg",
+        "categoryIds": ["traversal"]
+      },
+      {
+        "title": "All-Terrain Robot",
+        "description": "Conquering every terrain with ease!",
+        "points": [
+          "A versatile robot capable of navigating rough and unpredictable surfaces",
+          "Suitable for exploration, military, and disaster response scenarios"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/survveillience.jpg",
+        "categoryIds": ["traversal"]
+      },
+      {
+        "title": "Humanoid Robotic Arm",
+        "description": "Making robotics human-like!",
+        "points": [
+          "A versatile arm designed to mimic human movements",
+          "Ideal for tasks requiring precision such as assembly and object manipulation"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/humanoidarm.jpg",
+        "categoryIds": ["prosthetics"]
+      },
+      {
+        "title": "Multi-Finger Robotic Gripper using Rope and Pulley Mechanism",
+        "description": "Precision at your fingertips!",
+        "points": [
+          "Uses a rope and pulley system for dexterous gripping",
+          "Handles delicate and irregularly shaped objects with ease"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/roboticgripper.jpg",
+        "categoryIds": ["prosthetics"]
+      },
+      {
+        "title": "RFID Based Electronic Voting Machine",
+        "description": "Revolutionizing Elections!",
+        "points": [
+          "In-house RFID machine for elections during COVID-19",
+          "Votes are secured via tags to avoid rigging",
+          "Connected to a database that updates with each scan"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/VotingMachine.jpg",
+        "categoryIds": ["service_society"]
+      },
+      {
+        "title": "Railway Track Surveillance Robot",
+        "description": "Ensuring safety on the tracks!",
+        "points": [
+          "Monitors railway tracks for faults and obstructions",
+          "Equipped with sensors and cameras for real-time data collection"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/railway.jpg",
+        "categoryIds": ["service_society"]
+      },
+      {
+        "title": "3D Printed Humanoid Robot",
+        "description": "Innovation through 3D printing!",
+        "points": [
+          "A fully functional humanoid robot created with 3D printing",
+          "Highlights rapid prototyping and cost-effective design"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/humanoid.jpg",
+        "categoryIds": ["miscellaneous", "humanoid"]
+      },
+      {
+        "title": "Rubik's Cube Solver",
+        "description": "Speed and logic combined!",
+        "points": [
+          "Built to solve Rubik's Cubes at remarkable speed",
+          "Uses computer vision and algorithms for efficient solving"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/cubesolver.jpg",
+        "categoryIds": ["miscellaneous", "application_based"]
+      },
+      {
+        "title": "Biped Robot",
+        "description": "Walking like humans, stepping into the future!",
+        "points": [
+          "A two-legged robot designed to mimic human locomotion",
+          "Ideal for research in balance and gait analysis"
+        ],
+        "image": "https://www.coeprobotics.com/assets/Projects/biped.jpg",
+        "categoryIds": ["miscellaneous", "humanoid"]
+      }
+    ]
+  },
+  "ROBOCON": {
+    "RoboconData":[
+      {
+        "year": 2024,
+        "title": "'Harvest Day' 2024, Vietnam",
+        "description": " The theme is 'Harvest Day', which is inspired by Vietnam's terraced fields. The challenge involves two robots performing tasks related to rice cultivation, such as sowing, harvesting, and transferring grains to silos.",
+        "details": "First Prize in MATLAB, Won FUSION VISIONARY Award, Placed 8th overall",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_24_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_24_2.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_24_3.jpg"
+        ]
+      },
+      {
+        "year": 2023,
+        "title": "'Casting Flowers over Angkor Wat' 2023, Phnom Penh, Cambodia ",
+        "description": "The theme was 'Casting Flowers Over Angkor Wat'. The challenge involved two robots, a rabbit and an elephant, working together to toss rings onto poles.",
+        "details": "Rank 5 and First Runners-Up in MathWorks Modeling Award",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_23_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_23_2.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_23_3.jpg"
+        ]
+      },
+      {
+        "year": 2022,
+        "title": "'Lagori' 2022 Delhi, INDIA",
+        "description": "The theme was 'Lagori', a traditional game from southern India. In this game, two teams will design two robots, with each team will take turn playing as seeker and hitter. The seeker's first robot will first break the pile of stones using three small balls. Then the seeker's second robot will rebuild the pile of stones, but it also carries a ball on its head. The hitter's robot would attempt to throw their own balls to dislodge the ball on the seeker's head, and the round immediately ends once they succeeded. The team scores points based on the number of stones they displaced and then rebuilt, with the teams scoring more points declared the winner.",
+        "details": "Placed Thirteenth in the Event",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_22_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_22_2.jpg"
+        ]
+      },
+      {
+        "year": 2021,
+        "title": "'Throwing arrows into pots' 2021 Jimo, China",
+        "description": "The theme was 'Throwing arrows into pots' by Jimo, China. The game was based on the traditional game of East Asian countries pitch-pot, or throwing arrows to a pot. In this game, each team designs two robots. One robot can pick up arrows and throw them to the five pots located on the field, but is restricted to the outer area of the field. The other robot, in addition to throwing arrows from the outer area, can navigate through both the outer and inner area of the field, rotating pots, blocking throwing attempts of the opponent, or handing leftover arrows on the field to the first robot. Team scores point based on the number of arrows thrown into each pot, but if a team got the arrow to all five pots, they will achieve the K.O victory which immediately ends the game.",
+        "details": "Overall Rank 14",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_21_1.jpg"
+        ]
+      },
+      {
+        "year": 2020,
+        "title": "'ROBO RUGBY 7s' Suva, Fiji ",
+        "description": "The challenge was to play rugby 7's with two robots and five obstacles as defending players.",
+        "details": "Judges' Special Award, Placed 6th overall",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/robocon_20_1.jpg"
+        ]
+      },
+      {
+        "year": 2019,
+        "title": "'Sharing the knowledge' Ulaanbaatar, Mongolia",
+        "description": "The theme 'Sharing the Knowledge' was based on Mongolia's tradition of a message relay system. ",
+        "details": "Ranked 3rd in MathWorks Modeling Competition in National Robocon 2019",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_19_1.jpg"
+        ]
+      },
+      {
+        "year": 2018,
+        "title": "'NE'M CO'N' 2018 Ninh Binh, Vietnam",
+        "description": "The theme for Robocon 2018 declared as ném còn (throwing shuttlecock). The goal of the game is to throw the shuttlecocks through the ring at height.",
+        "details": "4th rank at National Robocon 2018 and Bagged Best Aesthetic Robot Award in National Robocon 2018 among 115 teams.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_18_1.jpg"
+        ]
+      },
+      {
+        "year": 2017,
+        "title": "'Asobi: The landing disc' Tokyo, JAPAN",
+        "description": "The theme revolves around the word 'asobi' (play), which is also a fundamental philosophy behind Robocon. In the match, each team will be given a set of discs which they are supposed to land on the poles of different height and at different distances. Team which will be able to land at least one disc on each pole will be declared as the winner of the game.",
+        "details": "Winner of National Robocon 2017 among 115 teams. 1st Prize with One lakh prize money. Balkrishna memorial award: Rolling trophy for winning this year national robocon 2017. Bagged Best Idea award, fastest job completing robot. 1st prize for best usage of Mathworks Tools in National Robocon 2017 with 35 Thousands cash prize and subsequently represented India at Internationals.Nagase Award: Special Sponsor award given to Top 6 team among 19 team in International Robocon 2017 held at Tokyo, Japan. Best Lovely Robot: Online polling taken across 18 countries in live contest. Our robot won maximum poll.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_17_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_17_2.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_17_3.jpg"
+        ]
+      },
+      {
+        "year": 2016,
+        "title": "'Clean Energy Recharging the World' Bangkok, THAILAND",
+        "description": "The concept behind the theme is the utilization of renewable energy sources. The match is between 2 teams (viz. red and blue), each team consisting of two robots. ",
+        "details": "COEP secured the first runner-up position in the national competition, Fastest Task Comleting Robot, Best Manual Operator Award, Winner of MATLAB Task Simulation Competition. ",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_16_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_16_2.jpg"
+        ]
+      },
+      {
+        "year": 2015,
+        "title": "'Robominton-Badminton RoboGame' Yogyakarta, Indonesia",
+        "description": "In the contest, the 2 teams (red and blue) had to play the game of badminton against each other. Each team made 2 robots to play a normal doubles badminton game.",
+        "details": "Best Manual Operator Award and Best Innovative Design Award by ROHM - Robocon 2015",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_15_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_15_2.jpg"
+        ]
+      },
+      {
+        "year": 2014,
+        "title": "'A Salute for Parenthood' Pune, INDIA",
+        "description": " The Theme for Robocon 2014 declared by India was 'A Salute for Parenthood'",
+        "details": "Best Innovative Design Award",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_14_1.jpg"
+        ]
+      },
+      {
+        "year": 2013,
+        "title": "'The Green Planet' VIETNAM",
+        "description": "The Theme for Robocon 2013 declared by VTV was 'The Green Planet'",
+        "details": "Best Innovative Design Award and One of 2 teams in India to complete task in Robocon 2013",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_13_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_13_2.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_13_3.jpg"
+        ]
+      },
+      {
+        "year": 2012,
+        "title": "'Pursuit of Peace and Prosperity' HONG KONG",
+        "description": " The Theme for Robocon 2012 declared by Hong Kong was in Pursuit of Peace and Prosperity. ",
+        "details": "Second Runner Up in Robocon 2012",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_12_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_12_2.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_12_3.jpg"
+        ]
+      },
+      {
+        "year": 2011,
+        "title": "'Lighting Happiness with Friendship' Bangkok, THAILAND",
+        "description": "The Theme for Robocon 2011 declared by Thailand was Krathong, Lighting Happiness with Friendship.",
+        "details": "",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_11_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_11_2.jpg"
+        ]
+      },
+      {
+        "year": 2010,
+        "title": "'Robo-Pharaohs Build Pyramids' Cairo, EGYPT",
+        "description": "The Theme for Robocon 2010 declared by Egypt was Robo-Pharaohs Build Pyramids.",
+        "details": "",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_10_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_10_2.jpg"
+        ]
+      },
+      {
+        "year": 2009,
+        "title": "'Kago' Tokyo, Japan",
+        "description": "Theme of Kago, the traditional Japanese palanquin, carried by human beings replaced by robots.",
+        "details": "",
+        "images": [
+          "/src/assets/robocon2022/Screenshot_2022-10-21_12.53.54_PM.png",
+          "/src/assets/robocon2022/Screenshot_2022-10-21_12.55.57_PM.png",
+          "/src/assets/robocon2022/Screenshot_2022-10-21_12.56.52_PM.png"
+        ]
+      },
+      {
+        "year": 2008,
+        "title": "'Govinda' Pune, INDIA",
+        "description": "The Theme for Robocon 2008 declared by India was Govinda, a traditional Indian Deity who used to play earthly games by capturing Butter/Cheese from heads of Gopis. ",
+        "details": "First Robocon participated by COEP.",
+        "images": [
+          "/src/assets/robocon2022/Screenshot_2022-10-21_12.53.54_PM.png",
+          "/src/assets/robocon2022/Screenshot_2022-10-21_12.55.57_PM.png",
+          "/src/assets/robocon2022/Screenshot_2022-10-21_12.56.52_PM.png"
+        ]
+      }
+    ]
+  },
+  "Competitions": {
+    "CompetitionsData": [
+      {
+        "year": 2024,
+        "title": "ABU ROBOCON THEME 2024",
+        "description": "Robocon is an International Competition organized by ABU (Asia-Pacific Broadcasting Union). This competition is based on various themes in which two robots, one manual and one autonomous, are used to complete a certain set of tasks. The contestants in the competition are undergraduate students who need significant expertise in the fields of Mechanical, Electronics, and Software Engineering to accomplish the given tasks.",
+        "details": "This year's theme focuses on innovative designs that challenge teams to push the limits of robotics and engineering.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_24_1.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_24_2.jpg",
+          "https://www.coeprobotics.com/assets/Robocon/Robocon_24_3.jpg"
+        ]
+      },
+      {
+        "year": 2024,
+        "title": "Roboroyale 2024",
+        "description": "Part of Mindspark 2024 and consisted of a manually operated Pick-and-Place Robot ",
+        "details": "Won 2nd Runners-Up",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/Roboroyale2024.jpg"
+        ]
+      },
+      {
+        "year": 2024,
+        "title": "Entrepreneurship Challenge  Robotex 2024",
+        "description": "The 𝐌𝐚𝐧𝐏𝐚𝐜𝐤𝐚𝐛𝐥𝐞 𝐑𝐨𝐛𝐨𝐭 features a unique, transformable system that can switch between wheel and track belt configurations, allowing it to adapt to various terrains—whether plain, muddy, or uneven. This flexibility makes it ideal for critical applications such as 𝐬𝐮𝐫𝐯𝐞𝐢𝐥𝐥𝐚𝐧𝐜𝐞, 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐫𝐞𝐬𝐜𝐮𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬, 𝐡𝐚𝐳𝐚𝐫𝐝𝐨𝐮𝐬 𝐦𝐚𝐭𝐞𝐫𝐢𝐚𝐥 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧, and 𝐦𝐢𝐥𝐢𝐭𝐚𝐫𝐲 𝐫𝐞𝐜𝐨𝐧𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞. Designed to navigate tough conditions, the robot can be deployed in disaster zones, urban search and rescue, and more, offering invaluable assistance where human lives are at risk. Its real-time data transmission capabilities, powered by 𝐑𝐎𝐒2 𝐰𝐢𝐭𝐡 𝐖𝐢-𝐅𝐢 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧, enhance its effectiveness in gathering crucial intelligence in dangerous environments.",
+        "details": "Won Silver for Man-Packable Robot",
+        "images": [
+          "https://www.coeprobotics.com/assets/Achivements/Enterpreneurship.jpg",
+          "https://www.coeprobotics.com/assets/Achivements/Enterpreneurship_24.jpg"
+        ]
+      },
+      {
+        "year": 2024,
+        "title": "FireFighter 2024",
+        "description": "The FireFighter competition, part of Robotex 2024, consisted of an Autonomous Fire Extinguishing Robot capable of extinguishing candles ",
+        "details": "Won 2nd Runners-Up",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/FireFighter-2024-1.jpg",
+          "https://www.coeprobotics.com/assets/Competitions/Firefighters-2024-2.jpg"
+        ]
+      },
+      {
+        "year": 2023,
+        "title": "Line Follower Competition at VIIT",
+        "description": "The Line Follower Competition was a part of VIIT Pune's Techfest  ",
+        "details": "Won 1st Place and 1st Runners-Up",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/lf1.jpg",
+          "https://www.coeprobotics.com/assets/Competitions/lf2.jpg",
+          "https://www.coeprobotics.com/assets/Competitions/lf3.jpg"
+        ]
+      },
+      {
+        "year": 2023,
+        "title": "Virtual Robotics 2023",
+        "description": "Part of Mindspark 2022 organized by COEP ",
+        "details": "Won First for Stingray Biomimetric Fish Robot and First Runner Up for Unmanned Aerial Vehicle with Horizontal Rotors",
+        "images": [
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.53.54_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.55.57_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.56.52_PM.png"
+        ]
+      },
+      {
+        "year": 2023,
+        "title": "Sumo Robotex 2023",
+        "description": "Part of Robotex India held in 2023 ",
+        "details": "Won Third Place",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/Sumo-2023.jpg",
+          "https://www.coeprobotics.com/assets/Achivements/3kgsumo.jpg"
+        ]
+      },
+      {
+        "year": 2023,
+        "title": "FIRST Robotics Competition 2023",
+        "description": "The FIRST Robotics Competition is an international high school robotics competition that combines the excitement of sport with the rigors of science and technology. Teams of students build and program robots to compete in a series of challenges.",
+        "details": "In 2023, teams designed robots to compete in a game called 'Charged Up', where they must score points by moving game pieces into designated areas.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Organizing/FTC/FTC-2.jpg",
+          "https://www.coeprobotics.com/assets/Organizing/FTC/ftc-3.jpg"
+        ]
+      },
+      {
+        "year": 2022,
+        "title": "RoboCup 2022",
+        "description": "RoboCup is an international robotics competition that aims to promote robotics and AI research. The competition features various leagues, including soccer, rescue, and industrial robots.",
+        "details": "In 2022, RoboCup hosted its first hybrid competition in Bordeaux, France, where teams participated both in-person and virtually.",
+        "images": [
+          "https://t4.ftcdn.net/jpg/02/10/96/95/360_F_210969565_cIHkcrIzRpWNZzq8eaQnYotG4pkHh0P9.jpg",
+          "https://www.ripplesnigeria.com/wp-content/uploads/2024/08/images-23-1.jpeg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3wcmPATKyfJuapccpoU1UlCE4yiwhb1aYD-_Rqd4d7Ltulc6rVbb9_cx7hNVTgw409o&usqp=CAU"
+        ]
+      },
+      {
+        "year": 2021,
+        "title": "VEX Robotics Competition 2021",
+        "description": "The VEX Robotics Competition provides students with an exciting platform to learn and apply STEM principles. Teams design and build robots to compete in games against other teams.",
+        "details": "The 2021 competition introduced new challenges focused on collaboration and strategy in a virtual format due to pandemic restrictions.",
+        "images": [
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.53.54_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.55.57_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.56.52_PM.png"
+        ]
+      },
+      {
+        "year": 2020,
+        "title": "International Conference on Robotics, Intelligent Automation and Control Technologies",
+        "description": "Students of RSC - 03 PhD, 03 PG students and 02 UG project groups have successfully presented total 08 research papers on Robotics at the International (Virtual) Conference on Robotics, Intelligent Automation and Control Technologies (RIACT 2020) held on 2nd and 3rd Oct 2020 organized by Vellore Institute of Technology, VIT, Vellore, Chennai.",
+        "details": "Won Best Paper Award",
+        "images": [
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.53.54_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.55.57_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.56.52_PM.png"
+        ]
+      },
+      {
+        "year": 2019,
+        "title": "Sumo Robotex 2019",
+        "description": "The 3kg Sumo was part of the National Robotex 2019 Competition held at Ahmedabad, Gujarat",
+        "details": "Won First Place",
+        "images": [
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.53.54_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.55.57_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.56.52_PM.png"
+        ]
+      },
+      {
+        "year": 2019,
+        "title": "Line Following Event 2019",
+        "description": "Part of the Regional Robotex 2019 in Pune",
+        "details": "Won 1st Runners-Up",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/Line-Follower-2019.jpg"
+        ]
+      },
+      {
+        "year": 2018,
+        "title": "Search & Destroy",
+        "description": " Held in the annual technical festival of COEP- Mindspark 2018.",
+        "details": "Won 1st Runners-Up and 2nd Runners Up",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/Search-&-Destroy-2017.jpg"
+        ]
+      },
+      {
+        "year": 2018,
+        "title": "DRDO's Robotics and Unmanned System Exposition Competition",
+        "description": "Held By DRDO ",
+        "details": "2nd Runners-Up in DRDO’s Robotics and Unmanned System Exposition Competition in India winning cash prize of Rs. 50,000/-",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/DRDO-2018.jpg"
+        ]
+      },
+      {
+        "year": 2017,
+        "title": "ABU International Robocon 2017",
+        "description": "COEP is the one of the two Indian Teams in International Robocon to reach the quarter finals and only one to win two awards for the country. ",
+        "details": "Nagase Award: Special Sponsor award given to Top 6 team among 19 team in International Robocon 2017 held at Tokyo, Japan. Best Lovely Robot: Online polling taken across 18 countries in live contest. Our robot won maximum poll.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/Robocon17-1.jpg",
+          "https://www.coeprobotics.com/assets/Competitions/Robocon17-2.jpg",
+          "https://www.coeprobotics.com/assets/Competitions/Robocon17-3.jpg"
+        ]
+      },
+      {
+        "year": 2017,
+        "title": "DD Robocon 2017",
+        "description": "National Winners of Robocon 2017",
+        "details": "Winner of National Robocon 2017 among 115 teams. 1st Prize with One lakh prize money. Balkrishna memorial award: Rolling trophy for winning this year national robocon 2017. Bagged Best Idea award, fastest job completing robot. 1st prize for best usage of Mathworks Tools in National Robocon 2017 with 35 Thousands cash prize and subsequently represented India at Internationals.",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/Robocon17-4.jpg",
+          "https://www.coeprobotics.com/assets/Competitions/Robocon17.jpg",
+          "https://www.coeprobotics.com/assets/Competitions/Robocon-17.jpg"
+        ]
+      },
+      {
+        "year": 2017,
+        "title": "Search & Destroy 2017",
+        "description": "Part of Mindspark 2017 organized by COEP ",
+        "details": "Winner and 1st Runner-Up",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/Search-&-Destroy-2017.jpg"
+        ]
+      },
+      {
+        "year": 2017,
+        "title": "DOG FIGHT ",
+        "description": "Part of Mindspark 2017 organized by COEP",
+        "details": "2nd Runner-Up",
+        "images": [
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.53.54_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.55.57_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.56.52_PM.png"
+        ]
+      },
+      {
+        "year": 2016,
+        "title": "IRC International ",
+        "description": "Represented India in IRC International at Techfest 2015-16 ",
+        "details": "",
+        "images": [
+          "https://www.coeprobotics.com/assets/Competitions/IRC-2016.jpg"
+        ]
+      },
+      {
+        "year": 2015,
+        "title": "IRC India 2015",
+        "description": "Qualified for Internationsals at IIT Bombay's Techfest ",
+        "details": "Stood 2nd in IRC India by IIT Bombay",
+        "images": [
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.53.54_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.55.57_PM.png",
+          "/src/assets/vex_2021/Screenshot_2021-10-21_at_12.56.52_PM.png"
+        ]
+      }
+    ]
+  },
+  "Sponsors&Affiliates": {
+    "sponsors": [
+      {
+        "name": "SOLIDWORKS",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-98QqCCFkbDNAvethCbhRUOFGjQrGgbcEA&s",
+        "website": "https://www.solidworks.com/"
+      },
+      {
+        "name": "ALTIUM DESIGNER",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_l5V8aUH7qXAewG4CbV4QD3g7Uv65uZwk4sxuQj19bKwg=s900-c-k-c0x00ffffff-no-rj",
+        "website": "https://www.altium.com/altium-designer"
+      }
+    ],
+    "oldSponsors": [
+      {
+        "name": "JANATICS PNEUMATIC",
+        "logo": "https://d3docvychcku54.cloudfront.net/media/amasty/shopby/option_images/slider/Janatics_Pneumatics_logo.png",
+        "website": "https://www.janatics.com"
+      },
+      {
+        "name": "PEPPERL + FUCHS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_Pepperl%2BFuchs.svg/2560px-Logo_Pepperl%2BFuchs.svg.png",
+        "website": "https://www.pepperl-fuchs.com/india/hi/index.htm"
+      },
+      {
+        "name": "ROBOT TECHNOLOGIES",
+        "logo": "https://www.coeprobotics.com/assets/sponser/robottech.jpg",
+        "website": "https://www.robottechnologies.com"
+      },
+      {
+        "name": "SIEMENS",
+        "logo": "https://www.coeprobotics.com/assets/sponser/siemens.jpg",
+        "website": "https://www.siemens.com"
+      },
+      {
+        "name": "SCHMALZ",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SCHMALZ_Logo.svg/2560px-SCHMALZ_Logo.svg.png",
+        "website": "https://www.schmalz.com/"
+      },
+      {
+        "name": "WIPRO PARI",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZm4gTo9M86VzvFQibe1UmN5TRqtx8z7o1w&s",
+        "website": "https://www.wipropari.com/"
+      },
+      {
+        "name": "iROBOTICS",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xOWT39kX3zI7-PCFdItagiLV_tqSsOxyiw&s",
+        "website": "https://irobotics.co.in/"
+      },
+      {
+        "name": "ROBOTEX",
+        "logo": "https://digiexpo.e-estonia.com/wp-content/uploads/2022/06/robotex_newlogo.png",
+        "website": "https://www.robotex-india.in/"
+      },
+      {
+        "name": "ROHM Semiconductor",
+        "logo": "https://www.coeprobotics.com/assets/sponser/rohm.jpg",
+        "website": "https://www.rohm.com"
+      },
+      {
+        "name": "KUKA Robotics",
+        "logo": "https://www.coeprobotics.com/assets/sponser/kuka.jpg",
+        "website": "https://www.kuka.com"
+      },
+      {
+        "name": "Festo",
+        "logo": "https://www.coeprobotics.com/assets/sponser/festo.jpg",
+        "website": "https://www.festo.com"
+      },
+      {
+        "name": "National Instruments",
+        "logo": "https://www.coeprobotics.com/assets/sponser/ni.jpg",
+        "website": "https://www.ni.com"
+      },
+      {
+        "name": "Phoenix Contact",
+        "logo": "https://www.coeprobotics.com/assets/sponser/pheonix.jpg",
+        "website": "https://www.phoenixcontact.com"
+      },
+      {
+        "name": "ABB",
+        "logo": "https://www.coeprobotics.com/assets/sponser/abb.jpg",
+        "website": "https://www.abb.com"
+      },
+      {
+        "name": "Bosch Rexroth",
+        "logo": "https://www.coeprobotics.com/assets/sponser/bosch.jpg",
+        "website": "https://www.boschrexroth.com"
+      },
+      {
+        "name": "Rockwell Automation",
+        "logo": "https://www.coeprobotics.com/assets/sponser/rockwell.jpg",
+        "website": "https://www.rockwellautomation.com"
+      }
+    ],
+    "affiliates": []
+  },
+  "Achievements": {
+    "Patents": {
+      "PatentsData" : [
+          {
+            "conference": "6th International Conference on Intelligent Technologies (ICIT - 2021)",
+            "papers": [
+              {
+                "title": "Autonomous RFID Controlled Assisting Robot for Isolation Wards",
+                "authors": "Dr. S S Ohol, Lalit Duseja, Yash Deshmukh, Shantanu Karmuse",
+                "id": "ICIT22",
+                "link": "https://www.researchgate.net/publication/359083537_Autonomous_RFID_Controlled_Assisting_Robot_for_Isolation_Wards"
+              },
+              {
+                "title": "Design and Development of a Multi-finger Prosthetic Robotic Hand",
+                "authors": "Dr. S S Ohol, Arya Arsan, Samarth Chaudhari, Poorval Wanere, Rushikesh Pabalkar, Chetan Pathrabe",
+                "id": "ICIT24",
+                "link": "https://www.researchgate.net/publication/359083828_Design_Development_of_a_Multi-finger_Prosthetic_Robotic_hand"
+              },
+              {
+                "title": "ROS based Compact Mobile Robot for Area mapping, Autonomous Navigation and Path Planning",
+                "authors": "Dr. S S Ohol, Aniruddha Gaikwad, Mihir Kulkarni, Anuja Agnihotri, Samruddhi Purohit",
+                "id": "ICIT26",
+                "link": "https://www.researchgate.net/publication/375895922_ROS_based_Compact_Mobile_Robot_for_Area_Mapping_Autonomous_Navigation_and_Path_Planning"
+              },
+              {
+                "title": "A low latency self-balancing algorithm for real-time quadrupedal robots",
+                "authors": "Dr. S S Ohol, Mudit Singal",
+                "id": "ICIT35",
+                "link": "https://www.researchgate.net/publication/359050100_A_low_latency_self-balancing_algorithm_for_real-time_quadrupedal_robots_suitable_for_navigating_unstable_rapidly_deforming_environments"
+              },
+              {
+                "title": "The Performance Parameter Analysis and Calibration Methodology for the Industrial Robot",
+                "authors": "Dr. S S Ohol, Ravindra Shinde",
+                "id": "ICIT08",
+                "link": "https://www.researchgate.net/publication/359083530_The_Performance_Parameter_Analysis_and_Calibration_Methodology_for_the_Industrial_Robot"
+              },
+              {
+                "title": "Development of Low cost Adaptive Cruise Control System for Automatic Transmission vehicle for low speed operations",
+                "authors": "Dr. S S Ohol, Aniruddha Sonawane",
+                "id": "ICIT15",
+                "link": "https://www.researchgate.net/publication/359083734_Development_of_Low-cost_Adaptive_Cruise_Control_System_for_Automatic_Transmission_vehicle_for_Low-speed_Operations"
+              },
+              {
+                "title": "Two legs Balancing with Appropriate Gait Cycle and its simulation for combined motion analysis",
+                "authors": "Dr. S S Ohol, Shantanu Bharad",
+                "id": "ICIT17",
+                "link": "https://www.researchgate.net/publication/359083616_Two_Legs_Balancing_with_Appropriate_Gait_Cycle_and_Its_Simulation_for_Combined_Motion_Analysis"
+              },
+              {
+                "title": "In-pipe Inspection Robot for Varying pipe sizes",
+                "authors": "Dr. S S Ohol, Atul Gargade",
+                "id": "ICIT18",
+                "link": "https://www.researchgate.net/publication/359083654_In-pipe_Inspection_Robot_for_Varying_Pipe_Sizes"
+              },
+              {
+                "title": "Design, development, analytical study and performance analysis of a prototype of ornithopter",
+                "authors": "Dr. S S Ohol, Madhura Mitkari, Vaishnavi Chakradeo, Riyaa Jadhav, Kalyani Deshmukh",
+                "id": "ICIT27",
+                "link": "https://www.researchgate.net/profile/Shantipal-Ohol/publication/359083481_Design_development_analytical_study_and_performance_analysis_of_a_prototype_of_ornithopter/links/62272f313c53d31ba4b0fbd5/Design-development-analytical-study-and-performance-analysis-of-a-prototype-of-ornithopter.pdf"
+              },
+              {
+                "title": "Finite Element Analysis of a Novel Robotic Gripper: GRABO",
+                "authors": "Dr. S S Ohol, Aniket H Bhelsaikar, Pratik Chothe, Vinod Atpadkar, Debanik Roy",
+                "id": "ICIT29",
+                "link": "https://www.researchgate.net/publication/365131597_Finite_Element_Analysis_of_a_Novel_Robotic_Gripper_Grabo"
+              },
+              {
+                "title": "Qualitative flexural modulus analysis for establishing appropriateness of pig femur bone for biomedical experimentation",
+                "authors": "Dr. S S Ohol, Pankaj S. Aglawe, Subodh Gade",
+                "id": "ICIT32",
+                "link": "https://www.researchgate.net/publication/359083841_Qualitative_flexural_modulus_analysis_for_establishing_appropriateness_of_pig"
+              },
+              {
+                "title": "Study of aerodynamic behavior of a symmetrical airfoil in a low wind speed region",
+                "authors": "Dr. S S Ohol, Pranoti Shinde, Vipin K. Tripathi",
+                "id": "ICIT44",
+                "link": "https://www.researchgate.net/publication/359083627_Study_of_an_aerodynamic_behavior_of_a_symmetrical_airfoil_under_in_a_low_wind_speed_region"
+              },
+              {
+                "title": "Impact on industrial robot calibration due to techno-commercial aspects in conventional industrial robot",
+                "authors": "Dr. S S Ohol, Pranoti Shinde, Vipin K. Tripathi",
+                "id": "ICIT44",
+                "link": "https://www.researchgate.net/publication/348366800_Comparative_Need_Analysis_of_Industrial_Robot_Calibration_Methodologies"
+              }
+            ]
+          },
+          {
+            "conference": "International Conference on Robotics, Intelligent Automation & Control Technologies (RIACT 2020)",
+            "papers": [
+              {
+                "title": "DESIGN AND VALIDATION OF A MATLAB SIMULATION TO OBTAIN CUSTOMIZED GAIT CYCLE FOR EXOSKELETON",
+                "authors": "Dr. S S Ohol",
+                "id": "RIACT 121",
+                "award": "BEST PAPER AWARD",
+                "link": "https://www.researchgate.net/publication/348368181_Development_of_lower_body_exoskeleton_mathematical_modeling_and_video_analysis_of_its_prototype_for_obtaining_customized_joint_actuation"
+              },
+              {
+                "title": "Inverse kinematic analysis of a fixture for fine alignment of central axis of top and bottom frame using simulation",
+                "authors": "Dr. S S Ohol and P S Aglawe",
+                "id": "RIACT 121",
+                "link": "https://www.researchgate.net/publication/348366053_Inverse_kinematic_analysis_of_a_fixture_for_fine_alignment_of_central_axis_of_top_and_bottom_frame_using_simulation"
+              },
+              {
+                "title": "Comparative Need Analysis of Industrial Robot Calibration Methodologies",
+                "authors": "Sumedh N Chiwande and Dr. Shantipal S Ohol",
+                "id": "RIACT 117",
+                "link": "https://www.researchgate.net/publication/271664497_Comparison_of_two_calibration_methods_for_a_small_industrial_robot_based_on_an_optical_CMM_and_a_laser_tracker"
+              },
+              {
+                "title": "Design and Development of In-pipe Inspection Robot for Various Pipe Sizes",
+                "authors": "Atul Gargade and Dr. Shantipal Ohol",
+                "id": "RIACT 11",
+                "link": "https://www.researchgate.net/publication/348369124_Design_and_Development_of_In-pipe_Inspection_Robot_for_Various_Pipe_Sizes"
+              },
+              {
+                "title": "SEMI-AUTONOMOUS PARKING SYSTEM FOR AUTOMATIC TRANSMISSION VEHICLES",
+                "authors": "Sameer Kaware, Dr. S. S. Ohol",
+                "id": "RIACT 122",
+                "link": "https://www.researchgate.net/publication/348368718_Semi-Autonomous_Parking_system_for_Automatic_Transmission_vehicles/fulltext/5ffaf82e45851553a034323a/Semi-Autonomous-Parking-system-for-Automatic-Transmission-vehicles.pdf"
+              },
+              {
+                "title": "INDUSTRIAL ROBOT PERFORMANCE ANALYSIS USING LOW COST SET-UP",
+                "authors": "Kirti Chachane, Dr. S. S. Ohol, S Chiwande",
+                "id": "RIACT 118",
+                "link": "https://www.researchgate.net/publication/348366946_Industrial_robot_performance_analysis_using_low_cost_set-_up"
+              },
+              {
+                "title": "Development of lower body exoskeleton, mathematical modeling and video analysis of its prototype for obtaining customized joint actuation",
+                "authors": "Dr. S. S. Ohol and K. D. Kalantri",
+                "id": "RIACT 120",
+                "award": "BEST PAPER AWARD",
+                "link": "https://www.researchgate.net/publication/348368181_Development_of_lower_body_exoskeleton_mathematical_modeling_and_video_analysis_of_its_prototype_for_obtaining_customized_joint_actuation"
+              },
+              {
+                "title": "Design, development and analysis of human exoskeleton for enhancing human capabilities",
+                "authors": "R V Vibhute, S S Yeole, S D Waghmare, T A Tonde and Dr. S S Ohol",
+                "id": "RIACT 124",
+                "link": "https://www.researchgate.net/publication/304692723_Dynamic_exoskeleton_design_and_analysis_of_a_human_exoskeleton_to_enhance_maximum_dynamic_performance"
+              },
+              {
+                "title": "Autonomous Snake Robot with Serpentine type Navigation",
+                "authors": "M G Bangar, H S Nirgude, S P Ghodake and Dr. S S Ohol",
+                "id": "RIACT 126",
+                "link": "https://www.researchgate.net/publication/365131666_Autonomous_Snake_Robot_with_Serpentine_type_Navigation"
+              }
+            ]
+          }
+        ]
+      },
+    "Papers": {
+     "PapersPublishedData" : [
+            {
+              "conference": "6th International Conference on Intelligent Technologies (ICIT - 2021)",
+              "papers": [
+                {
+                  "title": "Autonomous RFID Controlled Assisting Robot for Isolation Wards",
+                  "authors": "Dr. S S Ohol, Lalit Duseja, Yash Deshmukh, Shantanu Karmuse",
+                  "id": "ICIT22",
+                  "link": "https://www.researchgate.net/publication/359083537_Autonomous_RFID_Controlled_Assisting_Robot_for_Isolation_Wards"
+                },
+                {
+                  "title": "Design and Development of a Multi-finger Prosthetic Robotic Hand",
+                  "authors": "Dr. S S Ohol, Arya Arsan, Samarth Chaudhari, Poorval Wanere, Rushikesh Pabalkar, Chetan Pathrabe",
+                  "id": "ICIT24",
+                  "link": "https://www.researchgate.net/publication/359083828_Design_Development_of_a_Multi-finger_Prosthetic_Robotic_hand"
+                },
+                {
+                  "title": "ROS based Compact Mobile Robot for Area mapping, Autonomous Navigation and Path Planning",
+                  "authors": "Dr. S S Ohol, Aniruddha Gaikwad, Mihir Kulkarni, Anuja Agnihotri, Samruddhi Purohit",
+                  "id": "ICIT26",
+                  "link": "https://www.researchgate.net/publication/375895922_ROS_based_Compact_Mobile_Robot_for_Area_Mapping_Autonomous_Navigation_and_Path_Planning"
+                },
+                {
+                  "title": "A low latency self-balancing algorithm for real-time quadrupedal robots",
+                  "authors": "Dr. S S Ohol, Mudit Singal",
+                  "id": "ICIT35",
+                  "link": "https://www.researchgate.net/publication/359050100_A_low_latency_self-balancing_algorithm_for_real-time_quadrupedal_robots_suitable_for_navigating_unstable_rapidly_deforming_environments"
+                },
+                {
+                  "title": "The Performance Parameter Analysis and Calibration Methodology for the Industrial Robot",
+                  "authors": "Dr. S S Ohol, Ravindra Shinde",
+                  "id": "ICIT08",
+                  "link": "https://www.researchgate.net/publication/359083530_The_Performance_Parameter_Analysis_and_Calibration_Methodology_for_the_Industrial_Robot"
+                },
+                {
+                  "title": "Development of Low cost Adaptive Cruise Control System for Automatic Transmission vehicle for low speed operations",
+                  "authors": "Dr. S S Ohol, Aniruddha Sonawane",
+                  "id": "ICIT15",
+                  "link": "https://www.researchgate.net/publication/359083734_Development_of_Low-cost_Adaptive_Cruise_Control_System_for_Automatic_Transmission_vehicle_for_Low-speed_Operations"
+                },
+                {
+                  "title": "Two legs Balancing with Appropriate Gait Cycle and its simulation for combined motion analysis",
+                  "authors": "Dr. S S Ohol, Shantanu Bharad",
+                  "id": "ICIT17",
+                  "link": "https://www.researchgate.net/publication/359083616_Two_Legs_Balancing_with_Appropriate_Gait_Cycle_and_Its_Simulation_for_Combined_Motion_Analysis"
+                },
+                {
+                  "title": "In-pipe Inspection Robot for Varying pipe sizes",
+                  "authors": "Dr. S S Ohol, Atul Gargade",
+                  "id": "ICIT18",
+                  "link": "https://www.researchgate.net/publication/359083654_In-pipe_Inspection_Robot_for_Varying_Pipe_Sizes"
+                },
+                {
+                  "title": "Design, development, analytical study and performance analysis of a prototype of ornithopter",
+                  "authors": "Dr. S S Ohol, Madhura Mitkari, Vaishnavi Chakradeo, Riyaa Jadhav, Kalyani Deshmukh",
+                  "id": "ICIT27",
+                  "link": "https://www.researchgate.net/profile/Shantipal-Ohol/publication/359083481_Design_development_analytical_study_and_performance_analysis_of_a_prototype_of_ornithopter/links/62272f313c53d31ba4b0fbd5/Design-development-analytical-study-and-performance-analysis-of-a-prototype-of-ornithopter.pdf"
+                },
+                {
+                  "title": "Finite Element Analysis of a Novel Robotic Gripper: GRABO",
+                  "authors": "Dr. S S Ohol, Aniket H Bhelsaikar, Pratik Chothe, Vinod Atpadkar, Debanik Roy",
+                  "id": "ICIT29",
+                  "link": "https://www.researchgate.net/publication/365131597_Finite_Element_Analysis_of_a_Novel_Robotic_Gripper_Grabo"
+                },
+                {
+                  "title": "Qualitative flexural modulus analysis for establishing appropriateness of pig femur bone for biomedical experimentation",
+                  "authors": "Dr. S S Ohol, Pankaj S. Aglawe, Subodh Gade",
+                  "id": "ICIT32",
+                  "link": "https://www.researchgate.net/publication/359083841_Qualitative_flexural_modulus_analysis_for_establishing_appropriateness_of_pig"
+                },
+                {
+                  "title": "Study of aerodynamic behavior of a symmetrical airfoil in a low wind speed region",
+                  "authors": "Dr. S S Ohol, Pranoti Shinde, Vipin K. Tripathi",
+                  "id": "ICIT44",
+                  "link": "https://www.researchgate.net/publication/359083627_Study_of_an_aerodynamic_behavior_of_a_symmetrical_airfoil_under_in_a_low_wind_speed_region"
+                },
+                {
+                  "title": "Impact on industrial robot calibration due to techno-commercial aspects in conventional industrial robot",
+                  "authors": "Dr. S S Ohol, Pranoti Shinde, Vipin K. Tripathi",
+                  "id": "ICIT44",
+                  "link": "https://www.researchgate.net/publication/348366800_Comparative_Need_Analysis_of_Industrial_Robot_Calibration_Methodologies"
+                }
+            ]
+          },
+          {
+            "conference": "International Conference on Robotics, Intelligent Automation & Control Technologies (RIACT 2020)",
+            "papers": [
+              {
+                "title": "DESIGN AND VALIDATION OF A MATLAB SIMULATION TO OBTAIN CUSTOMIZED GAIT CYCLE FOR EXOSKELETON",
+                "authors": "Dr. S S Ohol",
+                "id": "RIACT 121",
+                "award": "BEST PAPER AWARD",
+                "link": "https://www.researchgate.net/publication/348368181_Development_of_lower_body_exoskeleton_mathematical_modeling_and_video_analysis_of_its_prototype_for_obtaining_customized_joint_actuation"
+              },
+              {
+                "title": "Inverse kinematic analysis of a fixture for fine alignment of central axis of top and bottom frame using simulation",
+                "authors": "Dr. S S Ohol and P S Aglawe",
+                "id": "RIACT 121",
+                "link": "https://www.researchgate.net/publication/348366053_Inverse_kinematic_analysis_of_a_fixture_for_fine_alignment_of_central_axis_of_top_and_bottom_frame_using_simulation"
+              },
+              {
+                "title": "Comparative Need Analysis of Industrial Robot Calibration Methodologies",
+                "authors": "Sumedh N Chiwande and Dr. Shantipal S Ohol",
+                "id": "RIACT 117",
+                "link": "https://www.researchgate.net/publication/271664497_Comparison_of_two_calibration_methods_for_a_small_industrial_robot_based_on_an_optical_CMM_and_a_laser_tracker"
+              },
+              {
+                "title": "Design and Development of In-pipe Inspection Robot for Various Pipe Sizes",
+                "authors": "Atul Gargade and Dr. Shantipal Ohol",
+                "id": "RIACT 11",
+                "link": "https://www.researchgate.net/publication/348369124_Design_and_Development_of_In-pipe_Inspection_Robot_for_Various_Pipe_Sizes"
+              },
+              {
+                "title": "SEMI-AUTONOMOUS PARKING SYSTEM FOR AUTOMATIC TRANSMISSION VEHICLES",
+                "authors": "Sameer Kaware, Dr. S. S. Ohol",
+                "id": "RIACT 122",
+                "link": "https://www.researchgate.net/publication/348368718_Semi-Autonomous_Parking_system_for_Automatic_Transmission_vehicles/fulltext/5ffaf82e45851553a034323a/Semi-Autonomous-Parking-system-for-Automatic-Transmission-vehicles.pdf"
+              },
+              {
+                "title": "INDUSTRIAL ROBOT PERFORMANCE ANALYSIS USING LOW COST SET-UP",
+                "authors": "Kirti Chachane, Dr. S. S. Ohol, S Chiwande",
+                "id": "RIACT 118",
+                "link": "https://www.researchgate.net/publication/348366946_Industrial_robot_performance_analysis_using_low_cost_set-_up"
+              },
+              {
+                "title": "Development of lower body exoskeleton, mathematical modeling and video analysis of its prototype for obtaining customized joint actuation",
+                "authors": "Dr. S. S. Ohol and K. D. Kalantri",
+                "id": "RIACT 120",
+                "award": "BEST PAPER AWARD",
+                "link": "https://www.researchgate.net/publication/348368181_Development_of_lower_body_exoskeleton_mathematical_modeling_and_video_analysis_of_its_prototype_for_obtaining_customized_joint_actuation"
+              },
+              {
+                "title": "Design, development and analysis of human exoskeleton for enhancing human capabilities",
+                "authors": "R V Vibhute, S S Yeole, S D Waghmare, T A Tonde and Dr. S S Ohol",
+                "id": "RIACT 124",
+                "link": "https://www.researchgate.net/publication/304692723_Dynamic_exoskeleton_design_and_analysis_of_a_human_exoskeleton_to_enhance_maximum_dynamic_performance"
+              },
+              {
+                "title": "Autonomous Snake Robot with Serpentine type Navigation",
+                "authors": "M G Bangar, H S Nirgude, S P Ghodake and Dr. S S Ohol",
+                "id": "RIACT 126",
+                "link": "https://www.researchgate.net/publication/365131666_Autonomous_Snake_Robot_with_Serpentine_type_Navigation"
+              }
+            ]
+          }
+        ]      },
+    "Awards": {
+      
+      "awardsData": [
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Autodesk_24.jpg",
+          "name": "Autodesk Fusion",
+          "year": "2024",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Fire-Fighter.jpg",
+          "name": "Fire Fighter",
+          "year": "2024",
+          "position": "3rd Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Enterpreneurship.jpg",
+          "name": "Enterpreneurship Challenge",
+          "year": "2024",
+          "position": "2nd Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/3kgsumo.jpg",
+          "name": "3kg RoboSumo",
+          "year": "2023",
+          "position": "3rd Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Maze_Solver.jpg",
+          "name": "Maze Solver",
+          "year": "2023",
+          "position": "3rd Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Mindspark.jpg",
+          "name": "Mindspark",
+          "year": "2023",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Mathworks23.jpg",
+          "name": "Mathwork Modeling",
+          "year": "2023",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Robotex_rank2.jpg",
+          "name": "ROBOTEX",
+          "year": "2023",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/robotex_1.jpg",
+          "name": "ROBOTEX",
+          "year": "2023",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Judge20.jpg",
+          "name": "Judge Special Award",
+          "year": "2020",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Mathwork2019.jpg",
+          "name": "Mathwork Modeling",
+          "year": "2019",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/asthetic18.jpg",
+          "name": "Best Asthetic Award",
+          "year": "2018",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/operator18.jpg",
+          "name": "Best Manual Operator",
+          "year": "2018",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Robocon17.jpg",
+          "name": "ROBOCON",
+          "year": "2017",
+          "position": "3rd Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/ides17.jpg",
+          "name": "Best Ideation Award",
+          "year": "2017",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Job17.jpg",
+          "name": "Fastest Job Completion",
+          "year": "2017",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Maathworks_17.jpg",
+          "name": "Mathwork Modeling",
+          "year": "2017",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/KPIT_Sparkle.jpg",
+          "name": "KPTI Sparkle",
+          "year": "2017",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Robocon2016.jpg",
+          "name": "ROBOCON",
+          "year": "2016",
+          "position": "3rd Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/job16.jpg",
+          "name": "Fastest Job Completion",
+          "year": "2016",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/operator16.jpg",
+          "name": "Best Manual Operator",
+          "year": "2016",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/innovative2015.jpg",
+          "name": "Best Innovative Design",
+          "year": "2015",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Innovative2013.jpg",
+          "name": "Best Innovative Design",
+          "year": "2013",
+          "position": "1st Place"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Achivements/Robocon_2012.jpg",
+          "name": "ROBOCON",
+          "year": "2012",
+          "position": "3rd Place"
+        }
+      ]
+    },
+    "Alumni Startups": {
+      "data": "Startups founded by alumni, with details and achievements."
+    },
+    "Media Coverage":{
+      "articlesData": [
+        {
+          "image": "https://www.coeprobotics.com/assets/Media/media_1.jpg",
+          "title": "Featured in Tech Today - Breakthrough Robotics"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Media/media_2.jpg",
+          "title": "Innovative Engineering Solutions - COEP Highlights"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Media/media_3.jpg",
+          "title": "National Robotics Champion - 2023 Award"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Media/media_4.jpg",
+          "title": "Startup Ecosystem Success Stories - Pune Edition"
+        },
+        {
+          "image": "https://www.coeprobotics.com/assets/Media/media_5.jpg",
+          "title": "Future of AI and Robotics - In Conversation with Experts"
+        }
+      ]
+    },
+    "Distinguished Alumni": {
+      "alumniData": [
+        {
+          "name": "John Doe",
+          "photo": "https://randomuser.me/api/portraits/men/75.jpg",
+          "description": "John Doe is a renowned scientist known for his work in renewable energy."
+        },
+        {
+          "name": "Jane Smith",
+          "photo": "src/assets/alumni/jane.png",
+          "description": "Jane Smith is a leading expert in artificial intelligence and machine learning."
+        },
+        {
+          "name": "Robert Brown",
+          "photo": "src/assets/alumni/robert.png",
+          "description": "Robert Brown is a successful entrepreneur and the founder of Tech Innovations Inc."
+        }
+      ]
+    }
+  },
+  "Organising": {
+   "Mindspark": {
+    "imageArray": [
+      {
+        "src": "https://www.coeprobotics.com/assets/Organizing/Mindspark/MS-1.jpg",
+        "title": "Robotica Event Showcase",
+        "description": "A dynamic display of cutting-edge robotics innovations during MindSpark, highlighting the technical prowess of participating teams and their groundbreaking robotic solutions."
+      },
+      {
+        "src": "https://www.coeprobotics.com/assets/Organizing/Mindspark/MS-4.jpg",
+        "title": "Competition Arena",
+        "description": "The intense competition zone where robots battle it out in challenges like Robo Wars, Bot Wrestling, and Search & Destroy, demonstrating precision, strategy, and engineering excellence."
+      },
+      {
+        "src": "https://www.coeprobotics.com/assets/Organizing/Mindspark/MS-5.jpg",
+        "title": "Technical Workshops",
+        "description": "Interactive workshops and demonstration sessions where students learn from industry experts, explore emerging technologies, and gain hands-on experience in robotics and automation."
+      },
+      {
+        "src": "https://www.coeprobotics.com/assets/Organizing/Mindspark/MS-1.jpg",
+        "title": "Robotica Event Showcase",
+        "description": "A dynamic display of cutting-edge robotics innovations during MindSpark, highlighting the technical prowess of participating teams and their groundbreaking robotic solutions."
+      },
+      {
+        "src": "https://www.coeprobotics.com/assets/Organizing/Mindspark/MS-4.jpg",
+        "title": "Competition Arena",
+        "description": "The intense competition zone where robots battle it out in challenges like Robo Wars, Bot Wrestling, and Search & Destroy, demonstrating precision, strategy, and engineering excellence."
+      },
+      {
+        "src": "https://www.coeprobotics.com/assets/Organizing/Mindspark/MS-5.jpg",
+        "title": "Technical Workshops",
+        "description": "Interactive workshops and demonstration sessions where students learn from industry experts, explore emerging technologies, and gain hands-on experience in robotics and automation."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Introduction",
+        "content": "MindSpark is the annual, national-level technical festival of COEP Tech. Since its inception in 2007, MindSpark has been igniting innovation and creativity. Evolving from modest beginnings, it celebrates intellect, teamwork, and competition. We aspire to give thinkers a stage to speak and creators an opportunity to build by transpiring revolution through innovation."
+      },
+      {
+        "title": "Events Organized by RSC",
+        "content": "At MindSpark, we host a dedicated module called Robotica, which serves as a hub for all robotics-related events and competitions. This platform showcases a diverse range of challenges, fostering innovation, technical skills, and problem-solving abilities among participants. Through Robotica, we aim to inspire the next generation of engineers and roboticists on a national stage."
+      },
+      {
+        "title": "Impact and Significance",
+        "content": "Over the years, MindSpark has grown into a pivotal platform for technological innovation, bringing together students, researchers, and industry experts from across the nation. The festival features a wide array of competitive events including Bot Wrestling, Robo Royale, Robo Races, Search and Destroy, Virtual Robotics, and Robo Wars. These events not only test technical skills but also encourage collaborative learning, interdisciplinary problem-solving, and the practical application of engineering principles in real-world scenarios."
+      }
+    ]
+  },
+    "Robotex": {
+      "imageArray": [
+        "https://www.coeprobotics.com/assets/Organizing/Robotex/logo.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Robotex/pic-2.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Robotex/Pic-1.jpg"
+      ],
+      "sections": [
+        {
+          "title": "Transforming Education Through Robotics: An Introduction to Robotex India",
+          "content": "Founded in 2018, Robotex India is a non-profit organization committed to bridging the digital divide and making robotics, AI, and IoT education accessible to underserved communities across India. With a focus on students from government, rural, and tribal schools, the organization has empowered over 20,000 young minds by offering hands-on learning opportunities. By helping students develop innovative solutions in areas like agriculture, sustainability, and education, Robotex India is paving the way for the next generation of tech leaders in an increasingly technology-driven world."
+        },
+        {
+          "title": "Key Initiatives Driving Impact",
+          "initiatives": {
+            "Inclusive Workshops": "The organization conducts workshops in rural and tribal schools, often in areas with minimal resources. These programs introduce students to robotics, AI, and IoT, enabling them to explore technologies they might not otherwise encounter.",
+            "National Competitions and Global Exposure": "The annual Robotex India Championships provide students a platform to showcase their creations in diverse categories. Winners gain the chance to represent India at international events like Robotex International and Robotex Asia, opening doors to global opportunities.",
+            "STEAM and Robotics Labs": "In collaboration with CSR initiatives, Robotex India has established labs in remote schools, promoting hands-on STEAM education and fostering innovation.",
+            "Sustainability Projects": "With a focus on social responsibility, the organization encourages students to develop solutions that align with sustainable development goals, such as waste management, environmental sustainability, and agricultural efficiency."
+          },
+          "summary": "Through these efforts, Robotex India not only transforms education but also inspires young innovators to contribute meaningfully to their communities and beyond."
+        },
+        
+        {
+          "title": "Our Role in Robotex India Competition",
+          "content": "At Robot Study Circle, we take immense pride in our pivotal role in organizing the Robotex India National Level Competition, a premier event in the field of robotics and innovation. Held this year at MITADT, we were responsible for overseeing a wide array of responsibilities, including referee work, robot inspection, and volunteering. Our team worked meticulously to ensure that the event ran smoothly and efficiently, maintaining the highest standards of fairness and technical precision."
+        },
+        {
+          "content": "Our involvement was critical in managing the entire logistics of the competition, ensuring that each participating team adhered to the rules while maintaining the integrity of the competition. As referees, we not only ensured the technical correctness of every robot but also provided guidance and feedback to the participants, helping them improve their designs and performance. The robot inspection process was thorough and systematic, guaranteeing that all the machines complied with the competition’s specifications, ensuring a fair and transparent experience for every team involved."
+        },
+        {
+          "content": "In addition to our technical roles, we also took charge of volunteering, assisting in managing event operations, coordinating with teams, and ensuring that every aspect of the competition ran without a hitch. Our volunteers played a key role in offering assistance and providing a seamless experience to both participants and organizers. This experience of organizing and managing such a prestigious event has allowed us to strengthen our technical and organizational capabilities, further establishing Robot Study Circle as a key contributor to India’s growing robotics ecosystem. By contributing to the Robotex India National Level Competition, we not only helped execute a world-class event but also created a platform for students, enthusiasts, and professionals to come together, exchange ideas, and foster the growth of robotics and technological education in India. Through these efforts, we continue to uphold our commitment to nurturing the next generation of innovators and ensuring that robotics education remains accessible to all."
+        }
+      ]
+    },
+    "FTC":{
+      "imageArray": [
+        "https://www.coeprobotics.com/assets/Organizing/FTC/FTC-4.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/FTC/FTC-1.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/FTC/FTC-5.jpg"
+      ],
+      "sections": [
+        {
+          "title": "About FTC India",
+          "content": "FTC India (FIRST Tech Challenge India) is part of the global FIRST Tech Challenge (FTC) program, aimed at inspiring students to become future leaders in science, technology, engineering, and mathematics (STEM). It provides students from grades 7 to 12 with a platform to design, build, and program robots that compete in exciting head-to-head challenges."
+        },
+        {
+          "title": "Primary Objectives",
+          "content": "FTC India organizes robotics competitions where student teams work together to create innovative robots. These robots must complete specific tasks and challenges on a competition field. The competition follows an alliance-based format, where teams form temporary alliances and compete to score points through strategy, precision, and technical skill."
+        },
+        {
+          "title": "Activities",
+          "content": "At Robot Study Circle, we took great pride in our involvement with the First Tech Challenge (FTC), where we actively contributed as Robot and Field Inspectors and Referees. As a key partner in this prestigious event, we, along with InfinityX—a company with whom we have strong ties—served as volunteering sponsors, ensuring the smooth and efficient execution of the competition."
+        },
+        {
+          "content": "Our role extended beyond just the technical aspects of the event. We bridged connections with international teams and students, expanding the knowledge base of participants and fostering valuable relationships that enriched the global robotics community. These interactions helped us stay at the forefront of cutting-edge technology while providing our members and students with diverse perspectives from around the world."
+        },
+        {
+          "content":"In addition to our volunteer roles, we proudly hosted our own stall during the event, where we showcased our latest robotics innovations, shared insights into new technologies, and provided live demonstrations of the robots we had developed. Our participation in FTC was not only an opportunity to contribute to the competition's success but also a platform for us to share our passion for robotics with the larger community and inspire the next generation of engineers and innovators."
+        }
+      ]
+    },
+    "Social Outreach": {
+      "imageArray": [
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture1.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture2.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture3.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture4.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture5.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture6.jpg"
+      ],
+      "sections": [
+        {
+          "title": "Community Outreach Program – Mangaon, Raigad",
+          "date": "October 15th, 2022",
+          "location": "Mangaon, Raigad",
+          "image": "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture1.jpg",
+          "content": "A transformative initiative to bridge technological gaps in rural communities:\n Collaborated with NSS at COEP\n Demonstrated advanced robots: NAO-6 humanoid, RoboSapien, Genibo\n Provided hands-on interaction with cutting-edge robotics\n Inspired local students about potential of AI and robotics\n Connected technical community with rural areas",
+          "facilitators": "Koustubh Anturkar\nChinmay Patil\nAyush Amborkar\nAtharv Neglur"
+        },
+        {
+          "title": "Mathematics Day Robotics Demonstration",
+          "date": "December 22nd, 2022",
+          "location": "COEP",
+          "image": "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture2.jpg",
+          "content": "Exploring the intersection of mathematics and robotics:\n Showcased NAO humanoid robot, Genibo robot, and Drone\n Demonstrated mathematical principles in robotics\n Highlighted applications in various industries\n Inspired students to explore STEM careers\n Provided interactive learning experience",
+          "facilitators": "Ayush Amborkar\nAtharv Neglur"
+        },
+        {
+          "title": "Electronics and Robotics Workshops",
+          "date": "June-July 2024",
+          "location": "Camp Education Society School",
+          "image": "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture3.jpg",
+          "content": "Empowering 9th and 10th-grade students with technological knowledge:\n Conducted 2-3 weekly sessions\n Covered electronics and robotics fundamentals\n Provided hands-on learning experiences\n Introduced sensor-based applications\n Motivated students towards STEM disciplines",
+          "facilitators": "Tejas Nirwan\nLaya Kshetrapal\nKavish Patil\nSaatvika Udayakumar\nDhiraj Patil"
+        }
+      ]
+    }
+  }, 
+  "StudentChapter": {
+    "TRS": {
+      "introduction": [
+        "In the last few years, robotics activities in India have moved well beyond the traditional areas of industrial applications, atomic energy, etc., and entered newer domains of education, rehabilitation, entertainment, and even into our homes. Indian robotics researchers have similarly grown from a handful to over a hundred, engaged in research labs, education, industry, atomic energy, and more.",
+        "Many of us feel that it is about time to form an academic society to further augment our robotics activities and foster better interaction among ourselves. With this objective, researchers got together to form a society on 10th July 2011. Officially, The Robotics Society was registered on June 21, 2017.",
+        "Note that in some of the earlier documents, 'Robotics Society of India (RSI)' might be mentioned, which should be read as 'The Robotics Society,' the registered name of the society."
+      ],
+
+      "inauguration": {
+        "date": "18th January 2019",
+        "location": "College of Engineering Pune (COEP)",
+        "identifier": "TRS-SC/18/001",
+        "chiefGuest": "Mr. Alok Mukherjee (Scientist ‘G’ and Head, Robotics Division, R&DE Dighi, DRDO)",
+        "director": "Dr. B. B. Ahuja, Director of COEP",
+        "facultyCommittee": "Dr. S. S. Ohol, Faculty Committee Member",
+        "highlights": [
+          "The inauguration of the TRS Student Chapter at COEP marked a major milestone in the university's robotics community, with the formal recognition of TRS-SC/18/001.",
+          "An upper torso humanoid robot built by COEP’s Robot Study Circle was unveiled during the inauguration, symbolizing the chapter's commitment to cutting-edge robotics.",
+          "Mr. Alok Mukherjee, the Chief Guest, delivered a keynote on UAV Netra, discussing its design and applications, and also demonstrated the Unexploded Ordnance Handling Robot (UXOR), showcasing the power of robotics in critical real-world scenarios.",
+          "Dr. B. B. Ahuja, Director of COEP, highlighted the importance of Robotics and IoT in the modern industrial landscape, emphasizing their growing relevance for students and industries alike.",
+          "Dr. S. S. Ohol introduced The Robotics Society India (TRS) and its mission to foster collaboration and development in the field of robotics, especially at COEP.",
+          "The event also laid the foundation for several workshops, including ROS Workshop, Brain-Controlled Robotics, ABB Industrial Robot Training, and many others, aimed at equipping students with advanced skills in robotics."
+        ],
+        "committeeAnnouncement": "The inauguration ceremony also saw the announcement of the TRS student chapter committee, marking the beginning of a dedicated team to further TRS activities at COEP.",
+        "felicitation": "As a part of the event's conclusion, the Robot Study Circle members who represented India at the International Robocon 2017 in Tokyo, Japan, were felicitated and awarded Certificates of Appreciation for their exceptional achievements.",
+        "emphasis": "This event marked the beginning of a new era for COEP’s robotics community, with the TRS Student Chapter playing a pivotal role in bridging the gap between students, academia, and the robotics industry. The inauguration not only celebrated the formal establishment of the chapter but also set the stage for future collaboration, innovation, and skill development in the rapidly evolving field of robotics."
+      },
+
+      "activities": {
+        "title": "Activities",
+        "description": "The Robotics Society organizes a main event every year around the month of July. The events are Advances in Robotics (AIR) and Workshop on Robotics, held alternatively.",
+        "airEvents": {
+          "title": "Advances in Robotics (AIR)",
+          "description": "Advances in Robotics (AIR) is an international conference of The Robotics Society, held every two years. Below are the details of past AIR events:",
+          "events": [
+            "AIR2013 at R&DE, DRDO, Pune during July 4-6, 2013",
+            "AIR2015 at BITS Pilani Goa Campus, Goa during July 2-4, 2015",
+            "AIR2017 at IIT Delhi, New Delhi, during June 28 – July 1, 2017",
+            "AIR2019 at IIT Madras, Chennai, during July 2-6, 2019",
+            "AIR2021 at IIT Kanpur, Kanpur during June 30 - July 4, 2021 (fully online)"
+          ]
+        },
+      "workshops": {
+        "title": "Workshops on Robotics",
+        "description": "The Robotics Society (TRS) Student Chapter at COEP Technological University provides students with a unique opportunity to learn from industry experts and robotics enthusiasts. Our workshops feature engaging sessions where speakers showcase their robots, share insights on emerging technologies, and discuss advancements in the field. These interactive experiences offer students valuable exposure to real-world robotics, inspiring them to innovate and explore new possibilities. The workshops include:\n Demonstration of NMR 145 Customized Mobile Manipulator Robot by Mr. Aditya Marathe: A demonstration showcasing the NMR 145, a customized mobile manipulator robot, with insights into its design, functionality, and real-world applications.\n Demonstration of RoboDK Software: A session on RoboDK, a versatile software used for simulation, programming, and controlling industrial robots, with practical examples of its usage in optimizing robotic workflows.\n Interaction Session with Esteemed RSC Alumni, featuring Dr. Pratap Tokekar (Associate Professor, Maryland University) and Dr. Abhishek Nagaraja (Associate Professor, Berkeley University): A discussion on their journey in robotics research, insights into academia, and advice for students pursuing careers in robotics.\n Workshop and Demonstration of Industrial Robot by Rigbetel Labs: A hands-on session introducing students to industrial robots, with demonstrations on their programming and applications in manufacturing, automation, and logistics."
+      }
+
+      }
+    
+  
+    },
+
+    "IEEE": {
+      "introduction": [
+        "The Institute of Electrical and Electronics Engineers (IEEE) is a global professional association dedicated to advancing technology for humanity. With over 400,000 members across 160+ countries, IEEE serves as a hub for engineers, researchers, and industry leaders in fields like electrical engineering, robotics, electronics, computer science, telecommunications, and beyond. IEEE is best known for setting global technology standards such as Wi-Fi (IEEE 802.11), Bluetooth, and Ethernet, which power modern communication and networking systems. It also publishes some of the world's most respected scientific journals and research papers, organizes international conferences, and offers professional development programs for students and working professionals. By fostering a collaborative ecosystem, IEEE drives technological innovation, supports education, and empowers the global engineering community."
+      ],
+      "activities": {
+        "title": "Activities",
+        "description": "Under the banner of IEEE, the Robotics Study Circle (RSC) actively publishes research papers and contributes to advancements in robotics and automation. In collaboration with the TRS Student Chapter, RSC also organizes technical workshops, hands-on sessions, and expert lectures aimed at enhancing student skills in robotics, AI, and emerging technologies. These initiatives provide a platform for students to engage with industry professionals, broaden their knowledge, and contribute to cutting-edge research.",
+        "airEvents": {
+          "title": "Paper Publications in IEEE Conferences by RSC",
+          "description": "",
+          "events": [
+            "Lower Body Passive Exoskeleton Using Control Enable Two Way Ratchet – ICCCNT 2018",
+            "Modelling and Development of Compressed Air Powered Human Exoskeleton Suit – ICRITO 2018",
+            "Design and Development of Modular Snake Robot – ICNTET 2018",
+            "Modelling and Simulation of Cartesian Co-ordinate Robot – I2CT 2018",
+            "Analysis of inverse kinematics for 5 DOF robot arm using D-H parameters-IEEE international Conference on real time    computing and Robotics 2017.",
+            "Design and Implementation of Low Cost Electronic Flow Control System for Pneumatic Circuits – ICIETS 2018",
+            "Modelling and Simulation of Human Exoskeleton - ICIC 2015"
+          ]
+        },
+        "workshops": {
+          "title": "Workshops on Robotics",
+          "description": "Workshops on Robotics and its Applications are held every alternate year, focusing on specific thrust areas of robotics."
+        }
+      }
+    }
+   },
+  "Contact Us": {
+    "data": "Contact information and communication options for visitors."
+  }
+}
