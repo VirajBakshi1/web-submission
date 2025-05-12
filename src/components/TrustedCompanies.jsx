@@ -1,13 +1,6 @@
 // TrustedCompanies.jsx
 import React from 'react';
-import logo1 from '../assets/logos/logo1.png';
-import logo2 from '../assets/logos/logo2.png';
-import logo3 from '../assets/logos/logo3.png';
-import logo4 from '../assets/logos/logo4.png';
-import logo5 from '../assets/logos/logo5.png';
-import logo6 from '../assets/logos/logo6.png';
-import logo7 from '../assets/logos/logo7.png';
-import logo8 from '../assets/logos/logo8.png';
+
 
 const TrustedCompanies = () => {
   // Array of company data with names and logo placeholders
