@@ -1,5 +1,5 @@
 import React from 'react';
-
+import image from '../assets/image.png';
 const ClientTestimonialSection = () => {
   return (
     <>
@@ -129,7 +129,7 @@ const ClientTestimonialSection = () => {
                   {/* Image with purple shadow */}
                   <div className="w-full h-full rounded-xl overflow-hidden bg-purple-400 shadow-neon-strong backdrop-blur-2xl shadow-purple-400/70">
                     <img 
-                      src="src/assets/image.png" 
+                      src={image}
                       alt="Talia Taylor" 
                       className="w-full h-full object-cover opacity-80"
                     />

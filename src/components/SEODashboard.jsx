@@ -1,5 +1,9 @@
 // SEODashboard.jsx
 import React from 'react';
+import RingImage from '../assets/Ring-image.png';
+import SS2Image from '../assets/ss2-image.png';
+import SS3Image from '../assets/ss3-image.png';
+import ConeImage from '../assets/Cone-image.png';
 
 const SEODashboard = () => {
   // Data for each card
@@ -7,13 +11,13 @@ const SEODashboard = () => {
     {
       title: "SEO goal setting",
       description: "Helps you set and achieve SEO goals with guided assistance.",
-      image: "src/assets/Ring-image.png", // Using the image path you provided
+      image: RingImage,
       position: "col-span-1"
     },
     {
       title: "User-friendly dashboard",
       description: "Perform complex SEO audits and optimizations with a single click.",
-      image: "src/assets/ss2-image.png",
+      image: SS2Image,
       position: "col-span-2 md:col-span-2"
     },
     {
@@ -23,17 +27,17 @@ const SEODashboard = () => {
         value: "59.8K",
         change: "+10.7%"
       },
-      image: "src/assets/ss3-image.png",
+      image: SS3Image,
       position: "col-span-2 md:col-span-2"
     },
     {
       title: "Smart Keyword Generator",
       description: "Automatic suggestions and the best keywords to target.",
-      image: "src/assets/Cone-image.png",
+      image: ConeImage,
       position: "col-span-1"
     }
   ];
-
+  
   // Component for the main heading
   const Header = () => (
     <div className="text-center mb-6 md:mb-10">
